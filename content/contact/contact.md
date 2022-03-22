@@ -19,7 +19,7 @@ content:
   address:
     street: 1200 Main Street W
     city: Hamilton
-    region: ON
+    region: Ontario
     postcode: L8N3Z5
     country: Canada
     country_code: Canada
