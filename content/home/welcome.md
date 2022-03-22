@@ -1,5 +1,5 @@
 ---
-widget: Wilson_lab
+widget: homepage
 widget_id: WELCOME
 headless: true
 weight: 10
