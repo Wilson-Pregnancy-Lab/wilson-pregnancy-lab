@@ -20,12 +20,12 @@ content:
     street: 1200 Main Street W
     city: Hamilton
     region: ON
-    postcode: 'L8N3Z5'
+    postcode: L8N3Z5
     country: Canada
     country_code: Canada
   coordinates:
-    latitude: '43.2609'
-    longitude: '79.9192'
+    latitude: '43.2609N'
+    longitude: '79.9192W'
   #contact_links:
   #  - icon: comments
   #    icon_pack: fas
