@@ -1,6 +1,6 @@
 ---
-widget: WELCOME
-widget_id: WELCOME
+widget: blank
+widget_id: blank
 headless: true
 weight: 40
 title: null
