@@ -19,7 +19,13 @@ organizations:
   - name: McMaster University
     url: ""
 education:
-  courses: []
+  courses:
+    - course: Postdoctoral Fellowship
+      institution: Princess Margaret Cancer Centre
+    - course: PhD Medical Genetics
+      institution: University of British Columbia
+    - course: BSc Honours Specialization in Genetics
+      institution: The University of Western Ontario
 email: ""
 superuser: true
 user_groups:
