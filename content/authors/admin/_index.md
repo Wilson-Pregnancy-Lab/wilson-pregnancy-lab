@@ -26,7 +26,7 @@ education:
       institution: University of British Columbia
     - course: BSc Honours Specialization in Genetics
       institution: The University of Western Ontario
-email: ""
+email: swils6@alumni.uwo.ca
 superuser: true
 user_groups:
   - Researchers
