@@ -21,11 +21,12 @@ organizations:
 education:
   courses:
     - course: Postdoctoral Fellowship
-      institution: Princess Margaret Cancer Centre
+      institution: Princess Margaret Cancer Centre, Toronto, Ontario, Canda
+      year: ""
     - course: PhD Medical Genetics
-      institution: University of British Columbia
+      institution: University of British Columbia, Vancouver, British Columbia, Canada
     - course: BSc Honours Specialization in Genetics
-      institution: The University of Western Ontario
+      institution: The University of Western Ontario, Hamilton, Ontario,Canada
 email: swils6@alumni.uwo.ca
 superuser: true
 user_groups:
