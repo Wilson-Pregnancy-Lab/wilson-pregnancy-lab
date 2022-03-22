@@ -1,5 +1,5 @@
 ---
-widget: Welcome to the Wilson Lab
+widget: Wilson_lab
 widget_id: WELCOME
 headless: true
 weight: 10
