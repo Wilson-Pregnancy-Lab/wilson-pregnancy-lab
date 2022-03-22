@@ -1,6 +1,6 @@
 ---
-widget: welcome
-widget_id: welcome
+widget: test
+widget_id: test
 headless: true
 weight: 40
 title: null
