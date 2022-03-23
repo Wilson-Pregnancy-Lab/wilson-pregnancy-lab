@@ -14,7 +14,7 @@ main:
     url: authors
     weight: 30
   - name: Join
-    url: #content/join
+    url: #content/join/join.md
     weight: 40
   - name: Publications
     url: publication
