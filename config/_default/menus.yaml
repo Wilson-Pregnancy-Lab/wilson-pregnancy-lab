@@ -14,7 +14,7 @@ main:
     url: authors/admin
     weight: 30
   - name: Join the Team!
-    url: join
+    url: #content/home/join
     weight: 40
   - name: Publications
     url: publication
