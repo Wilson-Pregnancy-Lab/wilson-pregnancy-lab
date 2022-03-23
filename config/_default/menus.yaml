@@ -11,16 +11,16 @@ main:
     url: post
     weight: 20
   - name: People
-    url: people
+    url: #content/authors/admin
     weight: 30
   - name: Join
-    url: join
+    url: #content/join
     weight: 40
   - name: Publications
     url: publication
     weight: 50
   - name: Resources
-    url: resources
+    url: #content/resources
     weight: 60
   - name: Contact
     url: contact
