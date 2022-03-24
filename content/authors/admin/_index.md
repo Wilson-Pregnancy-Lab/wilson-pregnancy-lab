@@ -1,7 +1,6 @@
 ---
-title: Dr. Samantha Wilson
-role: Assistant Professor - Department of Obstetrics and Gynaecology, McMaster
-  University
+title: Dr. Samantha L. Wilson
+role: Assistant Professor - Department of Obstetrics and Gynaecology
 avatar_filename: wilson-for-website-1-1-of-1-.jpg
 bio: ""
 interests: []
@@ -30,7 +29,7 @@ education:
 email: swils6@alumni.uwo.ca
 superuser: true
 user_groups:
-  - PI
+  - Principal Investigators
 highlight_name: false
 ---
 Sam is an assistant professor in the department of obstetrics and gynecology at McMaster University. Sam completed her PhD in Medical Genetics at the University of British Columbia, and a postdoctoral fellowship at Princess Margaret Cancer Centre. She enjoys a constant intake of coffee, hiking, and spending time with her corgi, Rosalind Franklin aka "Franki".
