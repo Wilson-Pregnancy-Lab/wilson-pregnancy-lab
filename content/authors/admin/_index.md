@@ -29,7 +29,7 @@ education:
 email: swils6@alumni.uwo.ca
 superuser: true
 user_groups:
-  - Principal Investigators
+  - "Principal Investigators"
 highlight_name: false
 ---
 Sam is an assistant professor in the department of obstetrics and gynecology at McMaster University. Sam completed her PhD in Medical Genetics at the University of British Columbia, and a postdoctoral fellowship at Princess Margaret Cancer Centre. She enjoys a constant intake of coffee, hiking, and spending time with her corgi, Rosalind Franklin aka "Franki".
