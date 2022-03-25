@@ -28,4 +28,3 @@ design:
   show_social: true
 ---
 
-cta_link="./people/"
