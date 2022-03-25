@@ -5,23 +5,23 @@
 
 main:
   - name: Home
-    url: #home
+    url: '#home'
     weight: 10
   - name: News
-    url: post
+    url: '#post'
     weight: 20
   - name: Team
-    url: people/people
+    url: '#people'
     weight: 30
   - name: Join
-    url: join
+    url: '#join'
     weight: 40
   - name: Publications
-    url: publication
+    url: '#publication'
     weight: 50
   - name: Resources
-    url: resources
+    url: '#resources'
     weight: 60
   - name: Contact
-    url: contact
+    url: '#contact'
     weight: 70
