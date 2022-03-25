@@ -8,10 +8,10 @@ main:
     url: '#home'
     weight: 10
   - name: News
-    url: '#post'
+    url: '#news'
     weight: 20
   - name: Team
-    url: '#content/people/'
+    url: '#people'
     weight: 30
   - name: Join
     url: '#join'
