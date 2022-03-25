@@ -28,7 +28,4 @@ design:
   show_social: true
 ---
 
-authors:
--<Dr. Samantha L Wilson>
--<Mascot>
 
