@@ -7,7 +7,7 @@ main:
   - name: Home
     url: #content/home/welcome
     weight: 10
-  - name: Lab News
+  - name: News
     url: post
     weight: 20
   - name: Team
