@@ -5,13 +5,13 @@
 
 main:
   - name: Home
-    url: home
+    url: #content/home/welcome
     weight: 10
   - name: Lab News
     url: post
     weight: 20
   - name: Team
-    url: #content/authors
+    url: #content/home/people
     weight: 30
   - name: Join the Team!
     url: #content/join
