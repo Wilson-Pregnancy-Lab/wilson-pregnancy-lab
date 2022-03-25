@@ -11,10 +11,10 @@ main:
     url: post
     weight: 20
   - name: People
-    url: people
+    url: #content/home
     weight: 30
   - name: Join the Team!
-    url: #content/join_the_team
+    url: #content/home/join
     weight: 40
   - name: Publications
     url: publication
