@@ -8,3 +8,5 @@ subtitle: null
 design:
   columns: "1"
 ---
+
+{{% cta cta_link="./join/" cta_text="Join the team →" %}}
