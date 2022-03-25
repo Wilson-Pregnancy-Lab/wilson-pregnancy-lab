@@ -1,6 +1,5 @@
 ---
-widget: blank
-widget_id: Welcome to the Wilson Lab!
+widget: hero
 headless: true
 weight: 10
 title: Wilson Pregnancy Lab
