@@ -1,7 +1,7 @@
 ---
 title: Dr. Samantha L. Wilson
 role: Assistant Professor - Department of Obstetrics and Gynaecology
-avatar_filename: wilson-for-website-1-1-of-1-.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests: []
 social:
