@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Meet the Team!
+title:
 subtitle:
 
 content:
@@ -28,4 +28,4 @@ design:
   show_social: true
 ---
 
-
+cta_link="./people/"
