@@ -18,7 +18,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: CV.pdf
+   link: /CV.pdf
 organizations:
   - name: McMaster University
     url: ""
