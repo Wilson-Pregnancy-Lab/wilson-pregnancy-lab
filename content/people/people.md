@@ -9,8 +9,9 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title:
+title: "Team"
 subtitle:
+type: "widget_page"
 
 content:
   # Choose which groups/teams of users to display.
