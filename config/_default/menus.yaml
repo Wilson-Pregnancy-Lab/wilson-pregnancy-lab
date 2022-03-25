@@ -10,8 +10,8 @@ main:
   - name: Lab News
     url: post
     weight: 20
-  - name: People
-    url: #content/people
+  - name: Team
+    url: people
     weight: 30
   - name: Join the Team!
     url: #content/join
