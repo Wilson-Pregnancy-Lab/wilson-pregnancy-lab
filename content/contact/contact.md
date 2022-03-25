@@ -24,8 +24,8 @@ content:
     country: Canada
     country_code: Canada
   coordinates:
-    latitude: '-79.9192'
-    longitude: '43.2609'
+    latitude: '-79.917996328'
+    longitude: '43.257998968'
   #contact_links:
   #  - icon: comments
   #    icon_pack: fas
