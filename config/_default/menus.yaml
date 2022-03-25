@@ -11,7 +11,7 @@ main:
     url: post
     weight: 20
   - name: People
-    url: #content/authors/
+    url: #content/home/people
     weight: 30
   - name: Join the Team!
     url: #content/home/join/
