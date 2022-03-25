@@ -17,7 +17,7 @@ main:
     url: '#join'
     weight: 40
   - name: Publications
-    url: '#publication'
+    url: publication
     weight: 50
   - name: Resources
     url: '#resources'
