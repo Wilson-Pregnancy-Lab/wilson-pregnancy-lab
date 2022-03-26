@@ -21,7 +21,7 @@ See details below and email the Wilson lab at SLWilsonLab[at]gmail.com with a co
 
 ## **Graduate Students**
 
-Prospective students should apply and be accepted to MSc, PhD, or MD/PhD programs in:
+Prospective students should be accepted to MSc, PhD, or MD/PhD programs in:
 
 > 1. [Medical Sciences](https://gs.mcmaster.ca/program/medical-sciences/)
 > 2. [Health Research Methods, Evidence, and Impact](https://hei.mcmaster.ca/education)
