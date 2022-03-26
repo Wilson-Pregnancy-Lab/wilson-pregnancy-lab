@@ -14,7 +14,10 @@ header:
   image: ""
 ---
 
-> This is a blockquote
+{{% callout note %}}
+We are currently seeking talented MSc, PhD, and undergraduate students interested in computational biology, placental dysfunction, placental aging, and pregnancy complications.
+See details below and email the Wilson lab at SLWilsonLab[at]gmail.com with a copy of your CV (PDF format), a cover letter explaining your research interests, and transcripts.
+{{% /callout %}}
 
 ## **Postdoctoral Fellows**
 
@@ -26,9 +29,9 @@ To apply to a postdoctoral position within the Wilson Pregnancy Lab, please emai
 
 Prospective students should apply and be accepted to MSc, PhD, or MD/PhD programs in:
 
-1. Faculty of Health Sciences, [Medical Sciences](https://gs.mcmaster.ca/program/medical-sciences/)
-2. Faculty of Health Sciences, [Health Research Methods, Evidence, and Impact](https://hei.mcmaster.ca/education)
-3. Faculty of Health Sciences, [Biochemistry and Biomedical Sciences](https://gs.mcmaster.ca/program/biochemistry-and-biomedical-sciences/)
+> 1. Faculty of Health Sciences, [Medical Sciences](https://gs.mcmaster.ca/program/medical-sciences/)
+> 2. Faculty of Health Sciences, [Health Research Methods, Evidence, and Impact](https://hei.mcmaster.ca/education)
+> 3. Faculty of Health Sciences, [Biochemistry and Biomedical Sciences](https://gs.mcmaster.ca/program/biochemistry-and-biomedical-sciences/)
 
 I am looking for prospective students with a strong background in genetics, with at least basic experience in computational biology.
 Experience in a unix environment, high performance computing, and scripting in R, Python and/or bash are assets. 
