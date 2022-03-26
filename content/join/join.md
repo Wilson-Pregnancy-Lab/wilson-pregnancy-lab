@@ -25,7 +25,7 @@ Scientists that are within a year of completing their PhD with experience in hig
 
 To apply to a postdoctoral position within the Wilson Pregnancy Lab, please email a copy of your CV (PDF format), a cover letter explaining your research interests, one paper representative of your work and research interests (PDF format), and a URL to a web page containing a sample of code written by you (e.g. Github or Bitbucket) to SLWilsonLab[at]gmail.com with the subject line "POSTDOC Application: [Your Name]".
 
-**Graduate Students**
+## **Graduate Students**
 
 Prospective students should apply and be accepted to MSc, PhD, or MD/PhD programs in:
 
@@ -38,24 +38,22 @@ Experience in a unix environment, high performance computing, and scripting in R
 
 To apply to a graduate student position within the Wilson Pregnancy Lab, please email a copy of your CV (PDF format), a cover letter explaining your research interests, and transcripts to SLWilsonLab[at]gmail.com with the subject line "[MSc or PhD] Application: [Your Name]".
 
-*Funding*
+### *Funding*
 
 Any accepted student will be awarded the minimum funding package in accordance with their graduate student program. Students that are awarded stipend awards will be topped up to a higher rate of funding.
 
-**Undergraduate Students**
+## **Undergraduate Students**
 
-*Senior thesis students*
+### *Senior thesis students*
 We are open to senior undergraduate thesis students. To apply, please email a copy of your CV (PDF format), a cover letter explaining your research interests, and transcripts to SLWilsonLab[at]gmail.com with the subject line "[UNDERGRAD THESIS] Application: [Your Name]".
 
-*Summer work experience*
+### *Summer work experience*
 We are open to undergraduate summer students. To apply, please email a copy of your CV (PDF format), a cover letter explaining your research interests, and transcripts to SLWilsonLab[at]gmail.com with the subject line "[UNDERGRAD SUMMER] Application: [Your Name]".
 
-**Technicians and Research Assistants**
+## **Technicians and Research Assistants**
 We are not currently seeking technicians and research assistants.
 
-**Training philosophy**
+## **Training philosophy**
 
-**About McMaster**
 
-McMaster University is located in Hamilton, Ontario, Canada. 
 
