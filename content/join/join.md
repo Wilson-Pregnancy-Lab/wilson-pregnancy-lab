@@ -1,5 +1,5 @@
 ---
-title: Join the team!
+title: Join the team
 summary:
 date: "2022-03-23"
 
@@ -14,10 +14,26 @@ header:
   image: ""
 ---
 
-Join the Wilson Lab
+#Postdoctoral Fellows
 
-**Postdoctoral Fellows**
+Scientists that are within a year of completing their Ph.D with experience in high dimensional data, bioinformatics, machine learning, 'omics (e.g. genomics, epigenomics, transciptomics) with an interest in pregnancy and placental development are encouraged to apply. *Currently we do not have funding for postdoctoral fellows, however, we welcome applications from scientists who have aquired independent funding*
 
-**Graduate Students**
+To apply to a postdoctoral position within the Wilson Pregnancy Lab, please email a copy of your CV (PDF format), one paper representative of your work and research interests (PDF format), and a URL to a web page containing a sample of code written by you (e.g. Github or Bitbucket) to SLWilsonLab[at]gmail.com with the subject line "POSTDOC Application: [Your Name]".
 
-**Undergraduate Students**
+#**Graduate Students**
+
+Prospective students should apply and be accepted to MSc or PhD programs in:
+
+1. 
+
+##**Funding**
+
+#**Undergraduate Students**
+
+#**Technicians and Research Assistants**
+
+#**Training philosophy**
+
+#**About McMaster**
+
+
