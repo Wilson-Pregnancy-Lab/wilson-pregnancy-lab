@@ -10,6 +10,7 @@ design:
     color: 'maroon'
     image: background.png
     image_size: contain
+    image_darken: 0.6
     image_position: right
     text_color_light: true
   css_style: null
