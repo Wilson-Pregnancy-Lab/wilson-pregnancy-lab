@@ -11,8 +11,7 @@ design:
     text_color_light: true
   css_style: null
   css_class: null
-
-spacing:
+  spacing:
    padding: ["20px", "0", "20px", "0"]
    
 cta:
