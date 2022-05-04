@@ -9,4 +9,4 @@ design:
   columns: "1"
 ---
 
-#{{% cta cta_link="./people/" cta_text="Meet the team →" cta_color = "black" %}}
+{{% cta <i class="fa-thin fa-dna"></i> cta_link="./people/" cta_text="Meet the team →" %}}
