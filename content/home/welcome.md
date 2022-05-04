@@ -8,8 +8,8 @@ design:
   columns: "2"
   background:
     color: 'maroon'
-    image: background.jpeg
-    image_size: cover
+    image: background.png
+    image_size: actual 
     image_position: right
     text_color_light: true
   css_style: null
