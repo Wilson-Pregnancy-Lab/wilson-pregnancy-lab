@@ -8,7 +8,6 @@ subtitle: null
 design:
   columns: "1"
     color: 'black'
-    text_color_light: true
 ---
 
 {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
