@@ -5,7 +5,7 @@ weight: 10
 #title: Wilson Pregnancy Lab
 #hero_media: welcome.jpg - Add logo here once I have
 design:
-  columns: "1"
+  columns: "2"
   background:
     color: 'maroon'
     text_color_light: true
@@ -19,15 +19,14 @@ cta:
   label: Join the team
   icon_pack: fas
   icon: dna
-
-spacing:
-   padding: ["20px", "0", "20px", "0"]
-
-cta:
+  
   url: "./people/"
   label: Meet the team
   icon_pack: fas
   icon: computer
+
+spacing:
+   padding: ["20px", "0", "20px", "0"]
 ---
 <br>
 
