@@ -29,5 +29,5 @@ cta:
   icon: fa-solid fa-computer
 ---
 
-Wilson Lab Officially Opens!
+
 
