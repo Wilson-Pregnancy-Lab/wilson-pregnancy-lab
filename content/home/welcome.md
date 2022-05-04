@@ -22,6 +22,12 @@ cta:
 
 spacing:
    padding: ["20px", "0", "20px", "0"]
+
+cta:
+  url: "./people/"
+  label: Meet the team
+  icon_pack: fas
+  icon: computer
 ---
 <br>
 
