@@ -15,4 +15,4 @@ cta:
   icon: fa-solid fa-computer
 ---
 
-{{% cta  cta_link="./people/" cta_text="Meet the team →" %}}
+{{% cta  cta_link="./people/" cta_text="Meet the team →" color="black" %}}
