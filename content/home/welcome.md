@@ -7,9 +7,10 @@ weight: 10
 design:
   columns: "2"
   background:
+    color: 'maroon'
     image: background.jpeg
-    image_size: actual
-    image_position: center
+    image_size: cover
+    image_position: right
     text_color_light: true
   css_style: null
   css_class: null
