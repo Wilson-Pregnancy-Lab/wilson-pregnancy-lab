@@ -7,7 +7,6 @@ weight: 10
 design:
   columns: "2"
   background:
-    #color: 'maroon'
     image: background.jpeg
     image_size: cover
     image_position: center
