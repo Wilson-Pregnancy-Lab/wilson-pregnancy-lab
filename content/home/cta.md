@@ -6,8 +6,7 @@ weight: 40
 title: null
 subtitle: null
 design:
-  columns: "2"
-   background:
+  columns: "1"
     color: 'black'
     text_color_light: true
 ---
