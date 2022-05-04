@@ -17,8 +17,9 @@ cta:
   label: Join the team
   icon_pack: fab
   icon: fa-solid fa-computer
-   spacing:
-    padding: ["20px", "0", "20px", "0"]
+
+spacing:
+   padding: ["20px", "0", "20px", "0"]
 ---
 <br>
 
