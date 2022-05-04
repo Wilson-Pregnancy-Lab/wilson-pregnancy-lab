@@ -5,7 +5,6 @@ weight: 10
 title: Wilson Pregnancy Lab
 hero_media: welcome.jpg
 design:
-  columns: "1"
   css_style: null
   css_class: null
 ---
