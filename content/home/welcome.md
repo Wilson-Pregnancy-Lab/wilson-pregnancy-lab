@@ -12,7 +12,7 @@ design:
   css_style: null
   css_class: null
   spacing:
-   padding: ["20px", "0", "20px", "0"]
+   padding: ["40px", "0", "40px", "0"]
    
 cta:
   url: "./join/"
@@ -21,7 +21,7 @@ cta:
   icon: dna
   
 spacing:
-   padding: ["20px", "0", "20px", "0"]
+   padding: ["40px", "0", "40px", "0"]
 ---
 <br>
 
