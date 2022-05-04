@@ -1,11 +1,18 @@
 ---
 widget: hero
 headless: true
+
+cta:
+  url: "./join/"
+  label: Join the team
+  icon_pack: fab
+  icon: <i class="fa-solid fa-computer"></i>
+
 weight: 10
 title: Wilson Pregnancy Lab
 #hero_media: welcome.jpg
 design:
-  columns: "0"
+  columns: "1"
   background:
     color: 'maroon'
     text_color_light: true
