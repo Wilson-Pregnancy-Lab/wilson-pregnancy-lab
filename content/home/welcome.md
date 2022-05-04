@@ -8,7 +8,7 @@ design:
   columns: "2"
   background:
     image: background.jpeg
-    image_size: cover
+    image_size: actual
     image_position: center
     text_color_light: true
   css_style: null
