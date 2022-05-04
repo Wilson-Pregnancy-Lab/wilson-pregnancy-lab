@@ -28,10 +28,10 @@ design:
     padding: ["20px", "0", "20px", "0"]
 advanced:
   css_class: fullscreen
+---
 
 cta:
   url: "./people/"
   label: Meet the team
   icon_pack: fab
   icon: fa-solid fa-computer
----
