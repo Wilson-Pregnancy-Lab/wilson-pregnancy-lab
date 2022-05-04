@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 20
 
-title: Latest News
+title: Lab news
 subtitle:
 
 content:
@@ -21,6 +21,12 @@ content:
 design:
   view: 3
   columns: "1"
+
+cta:
+  url: "./people/"
+  label: Meet the team
+  icon_pack: fab
+  icon: fa-solid fa-computer
 ---
 
 Wilson Lab Officially Opens!
