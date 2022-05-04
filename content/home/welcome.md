@@ -20,11 +20,6 @@ cta:
   icon_pack: fas
   icon: dna
   
-  url: "./people/"
-  label: Meet the team
-  icon_pack: fas
-  icon: computer
-
 spacing:
    padding: ["20px", "0", "20px", "0"]
 ---
