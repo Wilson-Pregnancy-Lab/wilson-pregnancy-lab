@@ -9,7 +9,7 @@ design:
   background:
     color: 'maroon'
     image: background.png
-    image_size: actual 
+    image_size: contain
     image_position: right
     text_color_light: true
   css_style: null
@@ -27,6 +27,8 @@ spacing:
    padding: ["40px", "0", "40px", "0"]
 ---
 <br>
+
+Welcome to the Wilson Pregnancy Lab!
 
 The **Wilson Lab** is located at [McMaster University,](https://www.mcmaster.ca/) within the [Faculty of Health Sciences](https://healthsci.mcmaster.ca/), [Department of Obstetrics and Gynecology](https://obsgyn.mcmaster.ca/home).
 
