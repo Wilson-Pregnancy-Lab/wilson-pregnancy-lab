@@ -24,8 +24,7 @@ See details below and email the Wilson lab at SLWilsonLab[at]gmail.com with a co
 Prospective students should be accepted to MSc, PhD, or MD/PhD programs in:
 
 > 1. [Medical Sciences](https://gs.mcmaster.ca/program/medical-sciences/)
-> 2. [Health Research Methods, Evidence, and Impact](https://hei.mcmaster.ca/education)
-> 3. [Biochemistry and Biomedical Sciences](https://gs.mcmaster.ca/program/biochemistry-and-biomedical-sciences/)
+> 2. [Biochemistry and Biomedical Sciences](https://gs.mcmaster.ca/program/biochemistry-and-biomedical-sciences/)
 
 I am looking for prospective students with a strong background in genetics, with at least basic experience in computational biology.
 Experience in a unix environment, high performance computing, and scripting in R, Python and/or bash are assets. 
