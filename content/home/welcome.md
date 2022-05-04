@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 #title: Wilson Pregnancy Lab
-#hero_media: welcome.jpg
+#hero_media: welcome.jpg - Add logo here once I have
 design:
   columns: "1"
   background:
@@ -17,6 +17,8 @@ cta:
   label: Join the team
   icon_pack: fab
   icon: fa-solid fa-computer
+   spacing:
+    padding: ["20px", "0", "20px", "0"]
 ---
 <br>
 
