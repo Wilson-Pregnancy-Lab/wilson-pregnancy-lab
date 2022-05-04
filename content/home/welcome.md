@@ -15,8 +15,8 @@ design:
 cta:
   url: "./join/"
   label: Join the team
-  icon_pack: fab
-  icon: computer
+  icon_pack: fas
+  icon: dna
 
 spacing:
    padding: ["20px", "0", "20px", "0"]

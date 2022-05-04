@@ -31,7 +31,7 @@ Experience in a unix environment, high performance computing, and scripting in R
 
 To apply to a graduate student position within the Wilson Pregnancy Lab, please email a copy of your CV (PDF format), a cover letter explaining your research interests, and transcripts to SLWilsonLab[at]gmail.com with the subject line "[MSc or PhD] Application: [Your Name]".
 
-### *Funding*
+#### *Funding*
 
 Any accepted student will be awarded the minimum funding package in accordance with their graduate student program. Students that are awarded stipend awards will be topped up to a higher rate of funding.
 
