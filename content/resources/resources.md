@@ -52,7 +52,70 @@ header:
 
 [Ontario Graduate Scholarship](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html)
 
-# **Technology**
+[Burrough's Wellcome Fund, Postdoctoral Diversity Enrichment Program](https://www.bwfund.org/funding-opportunities/diversity-in-science/postdoctoral-enrichment-program/)
+
+# **Tutorials and workshops**
+
+## Workshops
+[Canadian Bioinformatics Workshops](https://bioinformatics.ca/workshops/)
+
+## Shell scripting
+
+[Software Carpentry Lessons: Beginning shell scripting, python, and R](https://software-carpentry.org/lessons/)
+
+[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/), for beginners in shell scripting
+
+[HPC Carpentry: Lesson for High Performance Computing](https://www.hpc-carpentry.org/community-lessons/)
+
+## R
+
+[Data Carpentry Genomics Lessons](https://datacarpentry.org/lessons/#genomics-workshop)
+
+[Software Carpentry Lessons: Beginning shell scripting, python, and R](https://software-carpentry.org/lessons/)
+
+[Introduction to the tidyverse in R](https://leanpub.com/tidyverseskillsdatascience)
+
+## Python
+
+[Software Carpentry Lessons: Beginning shell scripting, python, and R](https://software-carpentry.org/lessons/)
+
+[Numpy tutorial](https://numpy.org/devdocs/user/absolute_beginners.html), for beginners in python
+
+[Rosalind: learn bioinformatics through problem solving](https://rosalind.info/problems/locations/)
+
+## Statistics
+
+[Introduction to Statistical Learning](https://www.statlearning.com/)
+
+[R for Data Science](https://r4ds.had.co.nz/)
+
+[Statistics for Biologists](https://www.nature.com/collections/qghhqm/pointsofsignificance)
+
+[Modern statistics for Modern Biology](http://web.stanford.edu/class/bios221/book/introduction.html)
 
 # **Useful links**
+
+## Scientific writing
+[Novelist Cormac McCarthy’s tips on how to write a great science paper](https://www.nature.com/articles/d41586-019-02918-5)
+
+[CiteAs: Get citation information for software or datasets quickly](http://citeas.org/)
+
+[Scientific Writing Guide](https://clauswilke.com/virtualbooks/)
+
+## Lab organization
+
+[Ten Simple Rules for a Computational Biologist’s Laboratory Notebook](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004385)
+
+[A Quick Guide to Organizing Computational Biology Projects](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424&ref=https://githubhelp.com)
+
+[Sharing biological data: why, when, and how](https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.14067)
+
+## Genomics Data and Information
+[ENCODE blacklist](https://www.encodeproject.org/files/ENCFF356LFX/)
+
+
+## Faculty Job Search
+[How to do a chalk talk](https://pubmed.ncbi.nlm.nih.gov/31194669/)
+
+
 
