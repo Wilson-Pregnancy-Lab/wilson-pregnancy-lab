@@ -3,7 +3,7 @@ title: Mining DNA methylation alterations towards a classification of placental 
 
 # Listing view
 #view: wilson2018.bib
-Type: 'Research'
+type: 'Research'
 Date: 2018-01-01
 
 # Optional banner image (relative to `assets/media/` folder).
