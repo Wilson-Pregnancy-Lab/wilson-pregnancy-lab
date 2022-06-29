@@ -13,7 +13,7 @@ banner:
 ---
 Authors: Samantha L Wilson, Gregory P Way, Wout Bittremieux, Jean-Paul Armache, Melissa A Haendel, Michael M Hoffman
 
-Publication date: 2021/4/1
+Publication date: 2021/04/01
 
 Journal: FEBS Letters
 
