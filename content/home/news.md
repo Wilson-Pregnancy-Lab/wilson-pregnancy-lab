@@ -29,5 +29,8 @@ cta:
   icon: computer
 ---
 
+**The Wilson Pregnancy Lab is open!**
+
+The Wilson Pregnancy Lab has officially opened at McMaster University in the OBGYN Department. We are seeking both undergraduate and graduate students! See our "Join" page for details!
 
 
