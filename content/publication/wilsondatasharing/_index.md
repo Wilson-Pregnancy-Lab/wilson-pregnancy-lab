@@ -11,7 +11,7 @@ banner:
   caption: ''
   image: ''
 ---
-Authors: Samantha L Wilson, Gregory P Way, Wout Bittremieux, JeanPaul Armache, Melissa A Haendel, Michael M Hoffman
+Authors: Samantha L Wilson, Gregory P Way
 
 Publication date: 2021/04/01
 
