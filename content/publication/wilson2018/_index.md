@@ -9,6 +9,7 @@ banner:
   caption: ''
   image: 'Slide1.png'
 ---
+URL link: [Mining DNA methylation alterations towards a classification of placental pathologies](https://academic.oup.com/hmg/article/27/1/135/4581994?login=true)
 
 Authors: Samantha L Wilson, Katherine Leavey, Brian J Cox, Wendy P Robinson
 
