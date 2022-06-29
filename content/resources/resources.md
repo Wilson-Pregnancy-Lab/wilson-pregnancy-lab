@@ -30,7 +30,7 @@ header:
 
 [Canadian Graduate Scholarshipes - Doctoral](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp)
 
-[CIHR Travel Awards](https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=2891&view=currentOpps&org=CIHR&type=EXACT&resultCount=25&sort=program&all=1&masterList=true)
+[Vanier Doctoral Awards](https://vanier.gc.ca/en/home-accueil.html)
 
 [Ontario Women's Health Scholars Award](https://cou.ca/resources/awards/)
 
@@ -46,13 +46,17 @@ header:
 
 [Branco Weiss Postdoctoral Fellowship](https://brancoweissfellowship.org/)
 
-[CIHR Travel Awards](https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=2891&view=currentOpps&org=CIHR&type=EXACT&resultCount=25&sort=program&all=1&masterList=true)
-
 [Ontario Women's Health Scholars Award](https://cou.ca/resources/awards/)
 
 [Ontario Graduate Scholarship](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html)
 
 [Burrough's Wellcome Fund, Postdoctoral Diversity Enrichment Program](https://www.bwfund.org/funding-opportunities/diversity-in-science/postdoctoral-enrichment-program/)
+
+[Molly Towell Perinatal Research Foundation Fellowship](https://www.mtprf.org/)
+
+## Travel Awards
+
+[CIHR Travel Awards](https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=2891&view=currentOpps&org=CIHR&type=EXACT&resultCount=25&sort=program&all=1&masterList=true)
 
 # **Tutorials and workshops**
 
