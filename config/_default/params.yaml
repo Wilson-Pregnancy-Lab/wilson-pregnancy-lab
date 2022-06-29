@@ -6,10 +6,11 @@
 # Appearance
 
 appearance:
-  theme_day: 1950s
+  theme_day: earth
   theme_night:
   font: native
   font_size: m
+  font_color: black
 
 # SEO
 
