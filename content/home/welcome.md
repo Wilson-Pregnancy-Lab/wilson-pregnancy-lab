@@ -7,7 +7,6 @@ weight: 10
 design:
   columns: "2"
   background:
-    color: 'maroon'
     image: background.png
     image_size: contain
     image_darken: 0.0
