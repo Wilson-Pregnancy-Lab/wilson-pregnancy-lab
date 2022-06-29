@@ -44,7 +44,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {2022} Wilson,SL. This work is licensed under {CC BY NC ND 4.0}'
+    notice: '© 2022 Wilson,SL. This work is licensed under {CC BY NC ND 4.0}'
     license:
       enable: true
       allow_derivatives: false
@@ -103,7 +103,7 @@ features:
 extensions:
   cms:
     branch: main
-    local_backend: false
+    local_backend: true
   isotope:
     # Enable if you use the Portfolio widget or Publication filter
     enable: true
