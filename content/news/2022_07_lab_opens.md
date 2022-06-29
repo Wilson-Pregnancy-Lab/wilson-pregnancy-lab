@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 20
 
-title: Lab news
+title: The Wilson Pregnancy Lab is officially open!
 subtitle:
 
 content:
@@ -28,9 +28,7 @@ cta:
   icon_pack: fas
   icon: computer
 ---
-*July 4th, 2022*
-
-**The Wilson Pregnancy Lab is open!**
+**July 4th, 2022**
 
 The Wilson Pregnancy Lab has officially opened at McMaster University in the OBGYN Department. We are seeking both undergraduate and graduate students! See our "Join" page for details!
 
