@@ -7,7 +7,7 @@ view: wilson2018.bib
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
-  image: ''
+  image: 'Figure.pptx'
 ---
 
 Authors: Samantha L Wilson, Katherine Leavey, Brian J Cox, Wendy P Robinson
