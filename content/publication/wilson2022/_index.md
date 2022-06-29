@@ -3,13 +3,13 @@ title: Sensitive and reproducible cell-free methylome quantification with synthe
 
 # Listing view
 #view:
-Type: Research
+Type: 'Research'
 Date: 2021-01-01
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
-  image: '2022_mae_sinaplot.png'
+  image: ''
 ---
 Authors: Samantha L Wilson, Shu Yi Shen, Lauren Harmon, Justin M Burgener, Tim Triche, Scott V Bratman, Daniel D De Carvalho, Michael M Hoffman
 
