@@ -4,7 +4,7 @@ title: Epigenetic regulation of reproduction in human and in animal models
 # Listing view
 #view: wilson2018.bib
 Type: 'Reviews_proceedings'
-Date: 2021_07_01
+Date: 2021-07-01
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
