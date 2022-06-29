@@ -14,7 +14,7 @@ design:
   css_style: null
   css_class: null
   spacing:
-   padding: ["40px", "0", "40px", "0"]
+   padding: ["1000px", "0", "100px", "0"]
    
 cta:
   url: "./join/"
