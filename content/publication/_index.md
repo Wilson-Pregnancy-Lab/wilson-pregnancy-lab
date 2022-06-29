@@ -8,9 +8,8 @@ view: citation
 banner:
   caption: ''
   image: ''
----
-
-title: the title of your publication
+  
+  title: the title of your publication
 date: the date that your publication was first published (must be in a valid TOML date format)
 publication_types: use the following legend to specify the main type of your publication, e.g. "1" for conference proceedings:
 0 = Uncategorized
@@ -24,3 +23,5 @@ publication_types: use the following legend to specify the main type of your pub
 8 = Patent
 publication: where your title was published - Markdown formatting is enabled here for italic etc.
 abstract: the summary of your publication
+---
+
