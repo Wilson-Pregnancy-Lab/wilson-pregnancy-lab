@@ -3,6 +3,7 @@
 widget: pages
 headless: true
 weight: 20
+hero_media: /images/WilsonLab_Logo.png
 
 title: The Wilson Pregnancy Lab logo is here!
 subtitle:
@@ -22,16 +23,7 @@ design:
   view: 3
   columns: "1"
 
-cta:
-  url: "./people/"
-  label: Meet the team
-  icon_pack: fas
-  icon: computer
 ---
-**June 28th, 2022**
-
-The official Wilson Pregnancy Lab logo:
-
-![](./images/WilsonLab_Logo.png)
+The official Wilson Pregnancy Lab logo is here!
 
 
