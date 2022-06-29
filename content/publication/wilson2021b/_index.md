@@ -3,7 +3,6 @@ title: Sharing biological data: why, when, and how
 
 # Listing view
 #view: wilson2018.bib
-type: 'Reviews_proceedings'
 Date: 2021-07-01
 
 # Optional banner image (relative to `assets/media/` folder).
