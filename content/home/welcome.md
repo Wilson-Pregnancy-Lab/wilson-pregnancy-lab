@@ -7,7 +7,6 @@ hero_media: welcome.png
 design:
   columns: "2"
   background:
-    image: background.png
     image_size: contain
     image_darken: 0.0
     image_position: right
