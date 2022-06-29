@@ -3,14 +3,14 @@ title: Sensitive and reproducible cell-free methylome quantification with synthe
 
 # Listing view
 #view:
+Type: Research
+Date: 2021-01-01
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
   image: '2022_mae_sinaplot.png'
 ---
-URL link: [Sensitive and reproducible cell-free methylome quantification with synthetic spike-in controls](https://www.biorxiv.org/content/10.1101/2021.02.12.430289v1)
-
 Authors: Samantha L Wilson, Shu Yi Shen, Lauren Harmon, Justin M Burgener, Tim Triche, Scott V Bratman, Daniel D De Carvalho, Michael M Hoffman
 
 Publication date: 2021/1/1
@@ -18,6 +18,8 @@ Publication date: 2021/1/1
 Journal: bioRxiv
 
 Publisher: Cold Spring Harbor Laboratory
+
+URL link: [Sensitive and reproducible cell-free methylome quantification with synthetic spike-in controls](https://www.biorxiv.org/content/10.1101/2021.02.12.430289v1)
 
 Abstract: Background Cell-free methylated DNA immunoprecipitation-sequencing (cfMeDIP-seq) identifies genomic regions with DNA methylation, using a protocol adapted to work with low-input DNA samples and with cell-free DNA (cfDNA). This method allows for DNA methylation profiling of circulating tumour DNA in cancer patients’ blood samples. Such epigenetic profiling of circulating tumour DNA provides information about in which tissues tumour DNA originates, a key requirement of any test for early cancer detection. In addition, DNA methylation signatures provide prognostic information and can detect relapse. For robust quantitative comparisons between samples, immunoprecipitation enrichment methods like cfMeDIP-seq require normalization against common reference controls.
 
