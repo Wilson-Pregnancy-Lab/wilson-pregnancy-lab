@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 20
 
-title: The Wilson Pregnancy Lab is officially open!
+title: The Wilson Pregnancy Lab logo is here!
 subtitle:
 
 content:
