@@ -15,7 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: swils6[at]alumni.uwo.ca
+  email: wilsos66[at]mcmaster.ca
   address:
     street: 1200 Main Street W
     city: Hamilton
