@@ -13,7 +13,7 @@ banner:
 ---
 Authors: Samantha L Wilson, Mary Wallingford
 
-Publication date: 2021/7/01
+Publication date: 2021/07/01
 
 Journal: Molecular Human Reproduction
 
