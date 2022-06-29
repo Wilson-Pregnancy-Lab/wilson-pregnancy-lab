@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 #title: Wilson Pregnancy Lab
-#hero_media: welcome.jpg
+hero_media: welcome.png
 design:
   columns: "2"
   background:
