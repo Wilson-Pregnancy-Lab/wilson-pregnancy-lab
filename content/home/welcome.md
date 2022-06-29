@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 #title: Wilson Pregnancy Lab
-#hero_media: welcome.jpg - Add logo here once I have
+hero_media: welcome.jpg
 design:
   columns: "2"
   background:
@@ -11,7 +11,7 @@ design:
     image_size: contain
     image_darken: 0.0
     image_position: right
-    text_color_light: true
+    text_color_light: false
   css_style: null
   css_class: null
   spacing:
