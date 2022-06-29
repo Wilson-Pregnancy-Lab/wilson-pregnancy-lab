@@ -13,7 +13,7 @@ banner:
 ---
 Authors: Samantha L Wilson, Katherine Leavey, Brian J Cox, Wendy P Robinson
 
-Publication date: 2018/1/1
+Publication date: 2018/01/01
 
 Journal: Human molecular genetics
 
