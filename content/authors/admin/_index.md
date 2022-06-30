@@ -7,7 +7,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:wilsos66@mcmaster.ca""
+    link: mailto:wilsos66@mcmaster.ca
   - icon: cv
     icon_pack: ai
     link: "~Documents/wilson-pregnancy-lab/static/files/CV.pdf"
