@@ -7,10 +7,10 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:wilsos66@mcmaster.ca'
   - icon: cv
     icon_pack: ai
-    link: 'uploads/CV.pdf'
+    link: 'CV.pdf'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/SamanthaLWilson
