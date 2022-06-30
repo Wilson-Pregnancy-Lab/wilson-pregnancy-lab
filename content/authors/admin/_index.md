@@ -15,7 +15,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.ca/citations?user=wdjQgMkAAAAJ&hl=en&authuser=1
    - icon: file
-   icon_pack: ai
+   icon_pack: fab
    #link: 'static/files/CV.pdf'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
