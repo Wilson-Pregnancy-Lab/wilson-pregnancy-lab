@@ -10,7 +10,7 @@ social:
     link: mailto:wilsos66@mcmaster.ca
   - icon: file
     icon_pack: fas
-    link: `static/files/cv.pdf`
+    link: `~/Documents/wilson-pregnancy-lab/static/files/cv.pdf`
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/SamanthaLWilson
