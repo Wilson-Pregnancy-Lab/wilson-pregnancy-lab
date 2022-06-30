@@ -14,7 +14,7 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.ca/citations?user=wdjQgMkAAAAJ&hl=en&authuser=1
-   - icon: cv
+   - icon: file
    icon_pack: ai
    #link: 'static/files/CV.pdf'
 # Link to a PDF of your resume/CV from the About widget.
