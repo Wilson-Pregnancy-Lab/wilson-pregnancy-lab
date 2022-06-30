@@ -10,7 +10,7 @@ social:
     link: 'mailto:wilsos66@mcmaster.ca'
   - icon: cv
     icon_pack: ai
-    link: 'CV.pdf'
+    link: '/static/files/CV.pdf'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/SamanthaLWilson
