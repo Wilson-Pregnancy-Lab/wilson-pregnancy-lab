@@ -8,7 +8,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:wilsos66@mcmaster.ca
-  - icon: file
+  - icon: cv
     icon_pack: fas
     link: download:`~/Documents/wilson-pregnancy-lab/static/files/cv.pdf`
   - icon: twitter
