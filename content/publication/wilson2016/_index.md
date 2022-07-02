@@ -17,6 +17,8 @@ Publication date: 2016/12/1
 
 Journal: Placenta
 
+publication_types: Research
+
 Volume: 48
 
 Pages: 26-33
