@@ -2,7 +2,8 @@
 title: Sharing biological data why, when, and how
 
 # Listing view
-type: 'Reviews_proceedings'
+publication_types: 2
+publication: FEBS Letters
 Date: 2021-04-01
 
 # Optional banner image (relative to `assets/media/` folder).
