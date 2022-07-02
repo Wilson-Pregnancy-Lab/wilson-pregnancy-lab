@@ -4,7 +4,8 @@ title: Utility of DNA methylation to assess placental health
 # Listing view
 #view: wilson2018.bib
 publication_types: "2"
-Date: 2018-04-01
+date: 2018-04-01
+publication: "Placenta"
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
@@ -14,8 +15,6 @@ banner:
 Authors: Samantha L Wilson, Wendy P Robinson
 
 Publication date: 2018/04/01
-
-publication_types: "2"
 
 Journal: Placenta
 

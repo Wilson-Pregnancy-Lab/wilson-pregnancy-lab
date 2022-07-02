@@ -4,7 +4,8 @@ title: Placental telomere length decline with gestational age differs by sex and
 # Listing view
 #view: wilson2018.bib
 publication_types: "2"
-Date: 2016-12-01
+date: 2016-12-01
+publication: "Placenta"
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
@@ -14,8 +15,6 @@ banner:
 Authors: Samantha L Wilson, Yao Liu, Wendy P Robinson
 
 Publication date: 2016/12/1
-
-publication_types: "2"
 
 Journal: Placenta
 

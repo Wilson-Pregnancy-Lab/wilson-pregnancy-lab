@@ -3,7 +3,8 @@ title: Sharing biological data why, when, and how
 
 # Listing view
 publication_types: "2"
-Date: 2021-04-01
+date: 2021-04-01
+publication: "FEBS Letters"
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
@@ -13,8 +14,6 @@ banner:
 Authors: Samantha L Wilson, Gregory P Way, Wout Bittremieux, Jean-Paul Armache, Melissa A Haendel, Michael M Hoffman
 
 Publication date: 2021/04/01
-
-publication_types: "2"
 
 Journal: FEBS Letters
 

@@ -4,7 +4,8 @@ title: Sensitive and reproducible cell-free methylome quantification with synthe
 # Listing view
 #view:
 publication_types: "3"
-Date: 2021-01-01
+date: 2021-01-01
+publication: "bioRxiv"
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
@@ -14,8 +15,6 @@ banner:
 Authors: Samantha L Wilson, Shu Yi Shen, Lauren Harmon, Justin M Burgener, Tim Triche, Scott V Bratman, Daniel D De Carvalho, Michael M Hoffman
 
 Publication date: 2021/1/1
-
-publication_types: "3"
 
 Journal: bioRxiv
 
