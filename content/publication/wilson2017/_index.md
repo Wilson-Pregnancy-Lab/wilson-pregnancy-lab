@@ -15,9 +15,9 @@ Authors: Samantha L Wilson, Wendy P Robinson
 
 Publication date: 2018/04/01
 
-publication_types: Reviews and proceedings
+publication_types: 2
 
-Journal: Placenta
+publication: Placenta
 
 Volume: 64
 

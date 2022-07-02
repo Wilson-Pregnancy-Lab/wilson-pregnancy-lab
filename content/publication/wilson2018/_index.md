@@ -15,7 +15,9 @@ Authors: Samantha L Wilson, Katherine Leavey, Brian J Cox, Wendy P Robinson
 
 Publication date: 2018/01/01
 
-Journal: Human molecular genetics
+publication_types: 2
+
+publication: Human molecular genetics
 
 Volume: 27
 

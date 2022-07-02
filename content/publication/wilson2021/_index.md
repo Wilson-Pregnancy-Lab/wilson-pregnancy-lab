@@ -15,7 +15,9 @@ Authors: Samantha L Wilson, Mary Wallingford
 
 Publication date: 2021/07/01
 
-Journal: Molecular Human Reproduction
+publication_types: 2
+
+publication: Molecular Human Reproduction
 
 Volume: 27
 
