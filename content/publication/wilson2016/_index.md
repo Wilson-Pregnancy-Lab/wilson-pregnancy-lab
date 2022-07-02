@@ -3,7 +3,7 @@ title: Placental telomere length decline with gestational age differs by sex and
 
 # Listing view
 #view: wilson2018.bib
-publication_types: "2"
+publication_types: ["2"]
 date: 2016-12-01
 publication: "Placenta"
 

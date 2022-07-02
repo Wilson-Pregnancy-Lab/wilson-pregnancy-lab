@@ -2,7 +2,7 @@
 title: Sharing biological data why, when, and how
 
 # Listing view
-publication_types: "2"
+publication_types: ["2"]
 date: 2021-04-01
 publication: "FEBS Letters"
 

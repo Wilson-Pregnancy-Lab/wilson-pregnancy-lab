@@ -3,7 +3,7 @@ title: Mining DNA methylation alterations towards a classification of placental 
 
 # Listing view
 #view: wilson2018.bib
-publication_types: "2"
+publication_types: ["2"]
 date: 2018-01-01
 publication: "Human molecular genetics"
 
