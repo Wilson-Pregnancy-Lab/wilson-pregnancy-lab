@@ -3,7 +3,7 @@ title: Utility of DNA methylation to assess placental health
 
 # Listing view
 #view: wilson2018.bib
-publication_types: "2"
+publication_types: 2
 date: 2018-04-01
 publication: "Placenta"
 
