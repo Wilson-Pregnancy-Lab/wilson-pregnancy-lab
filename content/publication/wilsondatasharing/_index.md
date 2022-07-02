@@ -14,6 +14,8 @@ Authors: Samantha L Wilson, Gregory P Way, Wout Bittremieux, Jean-Paul Armache, 
 
 Publication date: 2021/04/01
 
+publication_types: "2"
+
 Journal: FEBS Letters
 
 Volume: 595

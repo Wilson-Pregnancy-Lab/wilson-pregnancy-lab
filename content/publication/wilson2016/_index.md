@@ -15,6 +15,8 @@ Authors: Samantha L Wilson, Yao Liu, Wendy P Robinson
 
 Publication date: 2016/12/1
 
+publication_types: "2"
+
 Journal: Placenta
 
 Volume: 48

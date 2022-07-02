@@ -15,6 +15,8 @@ Authors: Samantha L Wilson, Shu Yi Shen, Lauren Harmon, Justin M Burgener, Tim T
 
 Publication date: 2021/1/1
 
+publication_types: "3"
+
 Journal: bioRxiv
 
 Publisher: Cold Spring Harbor Laboratory
