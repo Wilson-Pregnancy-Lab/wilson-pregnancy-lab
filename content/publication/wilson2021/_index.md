@@ -4,7 +4,6 @@ title: Epigenetic regulation of reproduction in human and in animal models
 # Listing view
 #view: wilson2018.bib
 publication_types: 2
-publication: Molecular Human Reproduction
 Date: 2021-07-01
 
 # Optional banner image (relative to `assets/media/` folder).
@@ -16,9 +15,7 @@ Authors: Samantha L Wilson, Mary Wallingford
 
 Publication date: 2021/07/01
 
-publication_types: 2
-
-publication: Molecular Human Reproduction
+Journal: Molecular Human Reproduction
 
 Volume: 27
 

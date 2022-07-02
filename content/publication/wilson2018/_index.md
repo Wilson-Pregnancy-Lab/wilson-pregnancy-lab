@@ -3,7 +3,7 @@ title: Mining DNA methylation alterations towards a classification of placental 
 
 # Listing view
 #view: wilson2018.bib
-type: 'Research'
+publication_types: 2
 Date: 2018-01-01
 
 # Optional banner image (relative to `assets/media/` folder).
@@ -15,9 +15,7 @@ Authors: Samantha L Wilson, Katherine Leavey, Brian J Cox, Wendy P Robinson
 
 Publication date: 2018/01/01
 
-publication_types: 2
-
-publication: Human molecular genetics
+Journal: Human molecular genetics
 
 Volume: 27
 
