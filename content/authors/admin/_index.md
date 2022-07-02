@@ -7,7 +7,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: <a href="mailto:wilsos66@mcmaster.ca">mail</a>
+    link: "mailto:wilsos66@mcmaster.ca"
   - icon: cv
     icon_pack: ai
     link: uploads/CV.pdf
