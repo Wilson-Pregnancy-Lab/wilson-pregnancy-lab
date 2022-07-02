@@ -7,7 +7,6 @@ publication_types: ["2"]
 abstract: "DNA methylation (DNAm), a mitotically stable epigenetic mark, can influence as well as reflect gene expression. DNAm has been gaining interest for use as a biomarker for many conditions including placental insufficiency, specifically preeclampsia (PE) and intrauterine growth restriction (IUGR). Additionally, DNAm may retain a “memory” of earlier in utero exposures and hence provide insight into pathogeneses occurring earlier in gestation. This review will discuss the placental DNA methylome, the uses of DNAm to assess placental health, and considerations and limitations to understand in epigenome-wide association studies (EWAS)."
 featured: true
 publication: "Placenta"
-URL link: [Utility of DNA methylation to assess placental health](https://www.sciencedirect.com/science/article/pii/S014340041731233X)
   
 #title: Utility of DNA methylation to assess placental health
 
