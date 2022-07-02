@@ -2,7 +2,7 @@
 title: Sharing biological data why, when, and how
 
 # Listing view
-publication_types: 2
+publication_types: "2"
 Date: 2021-04-01
 
 # Optional banner image (relative to `assets/media/` folder).

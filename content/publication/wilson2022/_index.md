@@ -3,7 +3,7 @@ title: Sensitive and reproducible cell-free methylome quantification with synthe
 
 # Listing view
 #view:
-publication_types: 3
+publication_types: "3"
 Date: 2021-01-01
 
 # Optional banner image (relative to `assets/media/` folder).
