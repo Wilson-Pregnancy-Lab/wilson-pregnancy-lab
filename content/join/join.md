@@ -39,7 +39,7 @@ Any accepted student will be awarded the minimum funding package in accordance w
 ## **Undergraduate Students**
 
 ### *Senior thesis students*
-We are open to senior undergraduate thesis students. To apply, please email a copy of your CV (PDF format), a cover letter explaining your research interests, and transcripts to wilsos66[at]mcmaster.ca with the subject line "[UNDERGRAD THESIS] Application: [Your Name]".
+We are open to senior undergraduate thesis students. To apply, please email a copy of your CV (PDF format), a cover letter explaining your research interests, and transcripts to wilsos66[at]mcmaster.ca with the subject line "[UNDERGRAD THESIS] Application: [Your Name]". Priority will be given to students who have taken BIOCHEM 3BP3 or similar.
 
 ### *Summer work experience*
 We are open to undergraduate summer students. To apply, please email a copy of your CV (PDF format), a cover letter explaining your research interests, and transcripts to wilsos66[at]mcmaster.ca with the subject line "[UNDERGRAD SUMMER] Application: [Your Name]".
