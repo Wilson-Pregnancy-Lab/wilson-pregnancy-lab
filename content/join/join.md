@@ -19,6 +19,10 @@ We are currently seeking talented MSc, PhD, and undergraduate students intereste
 See details below and email the Wilson lab at wilsos66[at]mcmaster.ca with a copy of your CV (PDF format), a cover letter explaining your research interests, and transcripts.
 {{% /callout %}}
 
+{{% callout note %}}
+We get a lot of emails inquiring about our lab. Unforatunately, there is not enough time to respond to everyone. Those that are selected for interview will be contacted.
+{{% /callout %}}
+
 ## **Graduate Students**
 
 Prospective students should be accepted to MSc, PhD, or MD/PhD programs in:

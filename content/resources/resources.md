@@ -117,6 +117,9 @@ header:
 ## Genomics Data and Information
 [ENCODE blacklist](https://www.encodeproject.org/files/ENCFF356LFX/)
 
+[UCSC genome browser](https://genome.ucsc.edu/)
+
+[WashU epigenome browser](https://epigenomegateway.wustl.edu/)
 
 ## Faculty Job Search
 [How to do a chalk talk](https://pubmed.ncbi.nlm.nih.gov/31194669/)
