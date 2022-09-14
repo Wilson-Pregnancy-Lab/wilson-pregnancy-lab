@@ -1,5 +1,5 @@
 ---
-title: Ongoing research in the Wilson Pregnancy Lab
+title: Wilson Pregnancy Lab: Research Projects
 summary:
 date: "2022-03-23"
 
@@ -13,8 +13,9 @@ header:
   caption: ""
   image: ""
 ---
+<br>
 
-## COMING SOON
+## **COMING SOON**
 
 
 
