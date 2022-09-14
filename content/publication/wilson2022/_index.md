@@ -14,9 +14,11 @@ banner:
 ---
 Authors: Samantha L Wilson, Shu Yi Shen, Lauren Harmon, Justin M Burgener, Tim Triche, Scott V Bratman, Daniel D De Carvalho, Michael M Hoffman
 
-Publication date: 2021/1/1
+Publication date: 2022/9/9
 
-Journal: bioRxiv
+Journal: Cell Reports Methods
+
+Pages: 100294
 
 Publisher: Cold Spring Harbor Laboratory
 
