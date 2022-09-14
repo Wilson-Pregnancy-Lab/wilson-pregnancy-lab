@@ -13,7 +13,6 @@ header:
   caption: ""
   image: ""
 ---
-<br>
 
 ## **COMING SOON**
 
