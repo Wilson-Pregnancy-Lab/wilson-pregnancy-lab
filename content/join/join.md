@@ -16,7 +16,7 @@ header:
 
 {{% callout note %}}
 We are currently seeking talented MSc, PhD, and undergraduate students interested in computational biology, placental dysfunction, placental aging, and pregnancy complications.
-See details below and email the Wilson lab at wilsos66[at]mcmaster.ca with a copy of your CV (PDF format), a cover letter explaining your research interests, and transcripts.
+See details below and email the Wilson lab at wilsos66[at]mcmaster.ca with a copy of your CV (PDF format), a cover letter explaining your research interests, and transcripts with the subject line "[MSc or PhD] Application: [Your Name]".
 {{% /callout %}}
 
 {{% callout note %}}
