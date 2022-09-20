@@ -54,6 +54,8 @@ header:
 
 [Molly Towell Perinatal Research Foundation Fellowship](https://www.mtprf.org/)
 
+[Michael G. DeGroote Fellowship Awards](http://healthsci.mcmaster.ca/mgdfa)
+
 ## Travel Awards
 
 [CIHR Travel Awards](https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=2891&view=currentOpps&org=CIHR&type=EXACT&resultCount=25&sort=program&all=1&masterList=true)
