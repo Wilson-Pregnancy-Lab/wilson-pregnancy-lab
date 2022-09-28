@@ -30,7 +30,7 @@ education:
     - course: PhD Medical Genetics
       institution: University of British Columbia, Vancouver, British Columbia, Canada
     - course: BSc Honours Specialization in Genetics
-      institution: The University of Western Ontario, Hamilton, Ontario,Canada
+      institution: The University of Western Ontario, London, Ontario,Canada
 email: wilsos66@mcmaster.ca
 superuser: true
 user_groups:
