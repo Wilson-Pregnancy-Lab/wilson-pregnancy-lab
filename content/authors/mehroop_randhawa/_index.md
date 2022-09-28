@@ -14,7 +14,7 @@ organizations:
   - name: McMaster University
     url: ""
 education:
-courses:
+  courses:
     - course: BSc Honours Biology
       institution: McMaster University, Hamilton, Ontario,Canada
       year: ""
