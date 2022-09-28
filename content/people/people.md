@@ -22,6 +22,7 @@ content:
   - Visitors
   - Alumni
   - Mascot
+  - Undergraduate Students
 design:
   show_interests: false
   show_role: true
