@@ -14,6 +14,7 @@ organizations:
   - name: McMaster University
     url: ""
 education:
+courses:
     - course: BSc Honours Biology
       institution: McMaster University, Hamilton, Ontario,Canada
 email: randhm2@mcmaster.ca
