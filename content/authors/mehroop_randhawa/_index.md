@@ -17,6 +17,7 @@ education:
 courses:
     - course: BSc Honours Biology
       institution: McMaster University, Hamilton, Ontario,Canada
+      year: ""
 email: randhm2@mcmaster.ca
 superuser: true
 user_groups:

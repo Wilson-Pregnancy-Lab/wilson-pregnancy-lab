@@ -25,7 +25,7 @@ organizations:
 education:
   courses:
     - course: Postdoctoral Fellowship
-      institution: Princess Margaret Cancer Centre, Toronto, Ontario, Canda
+      institution: Princess Margaret Cancer Centre, Toronto, Ontario, Canada
       year: ""
     - course: PhD Medical Genetics
       institution: University of British Columbia, Vancouver, British Columbia, Canada
