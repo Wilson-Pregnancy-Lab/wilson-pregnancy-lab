@@ -1,5 +1,5 @@
 ---
-title: Mehroop Ranhawa
+title: Mehroop Randhawa
 role: Undergraduate Thesis Student - Biology
 avatar_filename: avatar.jpg
 bio: ""
