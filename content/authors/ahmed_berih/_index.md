@@ -24,5 +24,5 @@ user_groups:
   - "Undergraduate Students"
 highlight_name: true
 ---
-I am a 4th Year student studying Biochemistry at McMaster University. I am working at the Wilson lab as a thesis student. Using computational methods my project examines the DNA methylation and immune cell type proportion in pre-eclamptic women. In my free time I enjoy playing sports and doing photography. 
+I am a 4th Year student studying Biochemistry at McMaster University. I am working at the Wilson lab as a thesis student. Using computational methods my project examines DNA methylation and immune cell type proportion in pre-eclamptic pregnancies. In my free time I enjoy playing sports and doing photography. 
 
