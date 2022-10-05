@@ -24,5 +24,6 @@ user_groups:
   - "Undergraduate Students"
 highlight_name: true
 ---
+
 Natalie is a fourth year student in the Biochemistry program at McMaster. She is volunteering in the Wilson lab, investigating how DNA methylation patterns of cell free DNA can be used to determine their tissue of origin during pregnancy. In her free time, she enjoys reading, painting and spending time with her dog!
 
