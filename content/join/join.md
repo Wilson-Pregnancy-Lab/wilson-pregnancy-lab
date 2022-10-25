@@ -16,7 +16,7 @@ header:
 
 {{% callout note %}}
 We are currently seeking talented MSc, PhD, and undergraduate students interested in computational biology, placental dysfunction, placental aging, and pregnancy complications.
-See details below and email the Wilson lab at wilsos66[at]mcmaster.ca with a copy of your CV (PDF format), a cover letter explaining your research interests, and transcripts with the subject line "[MSc or PhD] Application: [Your Name]".
+See details below and email the Wilson lab at wilsos66[at]mcmaster.ca with a copy of your CV (PDF format), a cover letter explaining your research interests, contact information for 3 references, and transcripts with the subject line "[MSc or PhD] Application: [Your Name]".
 {{% /callout %}}
 
 {{% callout note %}}
@@ -33,7 +33,7 @@ Prospective students should be accepted to MSc, PhD, or MD/PhD programs in:
 I am looking for prospective students with a strong background in genetics, with at least basic experience in computational biology.
 Experience in a unix environment, high performance computing, and scripting in R, Python and/or bash are assets. 
 
-To apply to a graduate student position within the Wilson Pregnancy Lab, please email a copy of your CV (PDF format), a cover letter explaining your research interests, and transcripts to wilsos66[at]mcmaster.ca with the subject line "[MSc or PhD] Application: [Your Name]".
+To apply to a graduate student position within the Wilson Pregnancy Lab, please email a copy of your CV (PDF format), a cover letter explaining your research interests, contact information for 3 references, and transcripts to wilsos66[at]mcmaster.ca with the subject line "[MSc or PhD] Application: [Your Name]".
 
 #### *Funding*
 
@@ -43,17 +43,17 @@ Any accepted student will be awarded the minimum funding package in accordance w
 ## **Undergraduate Students**
 
 ### *Senior thesis students*
-We are open to senior undergraduate thesis students. To apply, please email a copy of your CV (PDF format), a cover letter explaining your research interests, and transcripts to wilsos66[at]mcmaster.ca with the subject line "[UNDERGRAD THESIS] Application: [Your Name]". Priority will be given to students who have taken BIOCHEM 3BP3 or similar.
+We are open to senior undergraduate thesis students. To apply, please email a copy of your CV (PDF format), a cover letter explaining your research interests, contact information for 3 references, and transcripts to wilsos66[at]mcmaster.ca with the subject line "[UNDERGRAD THESIS] Application: [Your Name]". Priority will be given to students who have taken BIOCHEM 3BP3 or similar.
 
 ### *Summer work experience*
-We are open to undergraduate summer students. To apply, please email a copy of your CV (PDF format), a cover letter explaining your research interests, and transcripts to wilsos66[at]mcmaster.ca with the subject line "[UNDERGRAD SUMMER] Application: [Your Name]".
+We are open to undergraduate summer students. To apply, please email a copy of your CV (PDF format), a cover letter explaining your research interests, contact information for 3 references, and transcripts to wilsos66[at]mcmaster.ca with the subject line "[UNDERGRAD SUMMER] Application: [Your Name]".
 
 
 ## **Postdoctoral Fellows**
 
 Scientists that are within a year of completing their PhD with experience in high dimensional data, bioinformatics, machine learning, 'omics (e.g. genomics, epigenomics, transciptomics) with an interest in pregnancy and placental development are encouraged to apply. *Currently we do not have funding for postdoctoral fellows, however, we welcome applications from scientists who have aquired independent funding*
 
-To apply to a postdoctoral position within the Wilson Pregnancy Lab, please email a copy of your CV (PDF format), a cover letter explaining your research interests, one paper representative of your work and research interests (PDF format), and a URL to a web page containing a sample of code written by you (e.g. Github or Bitbucket) to wilsos66[at]mcmaster.ca with the subject line "POSTDOC Application: [Your Name]".
+To apply to a postdoctoral position within the Wilson Pregnancy Lab, please email a copy of your CV (PDF format), a cover letter explaining your research interests, one paper representative of your work and research interests (PDF format), contact information for 3 references, and a URL to a web page containing a sample of code written by you (e.g. Github or Bitbucket) to wilsos66[at]mcmaster.ca with the subject line "POSTDOC Application: [Your Name]".
 
 
 ## **Technicians and Research Assistants**
