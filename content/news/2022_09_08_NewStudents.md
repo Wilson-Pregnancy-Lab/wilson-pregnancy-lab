@@ -23,7 +23,7 @@ design:
   columns: "1"
 
 ---
-We have three new undergraduate students join the Wilson Pregnancy lab!
+Three new undergraduate students join the Wilson Pregnancy lab!
 \
 \
 \
