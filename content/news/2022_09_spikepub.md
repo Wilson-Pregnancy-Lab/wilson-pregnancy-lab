@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 20
 
-title: Sensitive and reproducible cell-free methylome quantification with synthetic spike-in controls
+title: 2022-09-19 Sensitive and reproducible cell-free methylome quantification with synthetic spike-in controls
 subtitle:
 
 content:
@@ -25,4 +25,5 @@ design:
 ---
 The "Sensitive and reproducible cell-free methylome quantification with synthetic spike-in controls" publication is now available online at [Cell Reports Methods](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(22)00176-X#supplementaryMaterial)
 
+![](./images/2022_09_spikeincontrolscreenshot.png)
 

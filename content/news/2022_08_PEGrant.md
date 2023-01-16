@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 20
 
-title: The Wilson Pregnancy Lab receives Preeclampsia Foundation Vision Grant!
+title: 2022-08-19 The Wilson Pregnancy Lab receives Preeclampsia Foundation Vision Grant!
 subtitle:
 
 content:

@@ -5,7 +5,7 @@ headless: true
 weight: 20
 hero_media: /images/WilsonLab_Logo.png
 
-title: The Wilson Pregnancy Lab logo is here!
+title: 2022-07-01 The Wilson Pregnancy Lab logo is here!
 subtitle:
 
 content:
