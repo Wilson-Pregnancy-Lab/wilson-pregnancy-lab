@@ -17,7 +17,7 @@ header:
 {{% callout note %}}
 We are currently seeking talented MSc, PhD, and undergraduate students interested in computational biology, placental dysfunction, placental aging, and pregnancy complications.
 **All current projects are computational, no wet-lab.**
-See details below and email the Wilson lab at wilsos66[at]mcmaster.ca with a copy of your CV (PDF format), a cover letter explaining your research interests, contact information for 3 references, and transcripts with the subject line "[MSc or PhD] Application: [Your Name]".
+See details below and email the Wilson lab at wilsos66[at]mcmaster.ca with a copy of your CV (PDF format), a cover letter explaining your research interests, contact information for 3 references, and transcripts with the subject line "[MSc or PhD] Application: [Your Name]". For example, MSc Application: Jane Doe.
 {{% /callout %}}
 
 {{% callout note %}}
@@ -34,20 +34,19 @@ Prospective students should be accepted to MSc, PhD, or MD/PhD programs in:
 I am looking for prospective students with a strong background in genetics, with at least basic experience in computational biology.
 Experience in a unix environment, high performance computing, and scripting in R, Python and/or bash are assets. 
 
-To apply to a graduate student position within the Wilson Pregnancy Lab, please email a copy of your CV (PDF format), a cover letter explaining your research interests, contact information for 3 references, and transcripts to wilsos66[at]mcmaster.ca with the subject line "[MSc or PhD] Application: [Your Name]".
+To apply to a graduate student position within the Wilson Pregnancy Lab, please email a copy of your CV (PDF format), a cover letter explaining your research interests, contact information for 3 references, and transcripts to wilsos66[at]mcmaster.ca with the subject line "[MSc or PhD] Application: [Your Name]". For example, MSc Application: Jane Doe.
 
 #### *Funding*
 
 Any accepted student will be awarded the minimum funding package in accordance with their graduate student program. Students that are awarded stipend awards will be topped up to a higher rate of funding.
 
-
 ## **Undergraduate Students**
 
 ### *Senior thesis students*
-We are open to senior undergraduate thesis students. To apply, please email a copy of your CV (PDF format), a cover letter explaining your research interests, contact information for 3 references, and transcripts to wilsos66[at]mcmaster.ca with the subject line "[UNDERGRAD THESIS] Application: [Your Name]". Priority will be given to students who have taken BIOCHEM 3BP3 or similar.
+We are open to senior undergraduate thesis students. To apply, please email a copy of your CV (PDF format), a cover letter explaining your research interests, contact information for 3 references, and transcripts to wilsos66[at]mcmaster.ca with the subject line "[UNDERGRAD THESIS] Application: [Your Name]" (E.g. 4th year thesis: John Doe). Priority will be given to students who have taken BIOCHEM 3BP3 or similar.
 
 ### *Summer work experience*
-We are open to undergraduate summer students. To apply, please email a copy of your CV (PDF format), a cover letter explaining your research interests, contact information for 3 references, and transcripts to wilsos66[at]mcmaster.ca with the subject line "[UNDERGRAD SUMMER] Application: [Your Name]".
+We are open to undergraduate summer students. To apply, please email a copy of your CV (PDF format), a cover letter explaining your research interests, contact information for 3 references, and transcripts to wilsos66[at]mcmaster.ca with the subject line "[UNDERGRAD SUMMER] Application: [Your Name]". For example, Summer student application: Jane Doe.
 
 
 ## **Postdoctoral Fellows**
