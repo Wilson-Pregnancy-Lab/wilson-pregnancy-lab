@@ -24,6 +24,8 @@ cta:
   
 spacing:
    padding: ["40px", "0", "40px", "0"]
+   
+type: landing
 ---
 <br>
 
