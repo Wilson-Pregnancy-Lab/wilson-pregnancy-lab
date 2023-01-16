@@ -24,6 +24,6 @@ design:
   columns: "1"
 
 ---
-The official Wilson Pregnancy Lab logo is here!
+The Wilson lab has officially opened at McMaster Univesrity in the Department of Obstetrics and Gynecology. To kick off the lab, the official Wilson Pregnancy Lab logo is here!
 
 
