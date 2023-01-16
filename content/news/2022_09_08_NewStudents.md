@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 20
 
-title: 2022-09-19 Sensitive and reproducible cell-free methylome quantification with synthetic spike-in controls
+title: 2022-09-19 Three new undergraduate students join the Wilson Pregnany Lab
 subtitle:
 
 content:
