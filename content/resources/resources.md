@@ -123,6 +123,8 @@ header:
 
 [WashU epigenome browser](https://epigenomegateway.wustl.edu/)
 
+[HELIX: Exposome-omics-Wide Association Study](https://helixomics.isglobal.org/)
+
 ## Faculty Job Search
 [How to do a chalk talk](https://pubmed.ncbi.nlm.nih.gov/31194669/)
 
