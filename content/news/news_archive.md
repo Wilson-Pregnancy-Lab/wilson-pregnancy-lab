@@ -13,9 +13,6 @@ header:
   caption: ""
   image: ""
 ---
-
-**Wilson Pregnancy Lab News Archive**
-
 *2022-09-19.* New students, Ahmed Berih, Mehroop Randhawa, and Nataie Yuen join the lab.
 
 
