@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '#home'
     weight: 10
-  - name: News
+  - name: News archive
     url: news
     weight: 20
   - name: Team

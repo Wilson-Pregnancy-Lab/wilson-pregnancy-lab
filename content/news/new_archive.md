@@ -5,7 +5,7 @@ headless: true
 weight: 20
 hero_media: /images/WilsonLab_Logo.png
 
-title: Wilson lab new archive
+title: Wilson lab news archive
 subtitle:
 
 content:
