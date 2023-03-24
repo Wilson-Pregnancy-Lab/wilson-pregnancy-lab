@@ -1,27 +1,18 @@
 ---
-widget: hero
-headless: true
-weight: 10
-#title: Wilson Pregnancy Lab News Archive
-hero_media: welcome.png
-design:
-  columns: "2"
-  background:
-    image_size: contain
-    image_darken: 0.0
-    image_position: right
-    text_color_light: false
-  css_style: null
-  css_class: null
-  spacing:
-   padding: ["40px", "0", "40px", "0"]
-  
-spacing:
-   padding: ["40px", "0", "40px", "0"]
-   
-type: landing
+title: Wilson Pregnancy Lab News Archive
+summary:
+date: "2023-03-23"
+
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
+
+# Optional header image (relative to `assets/media/` folder).
+header:
+  caption: ""
+  image: ""
 ---
-<br>
 
 **Wilson Pregnancy Lab News Archive**
 
