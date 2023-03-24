@@ -25,6 +25,8 @@ cta:
 
 *2023-03-24.* Sam is a speaker at the Society of Birth Defects Research and Prevention Meeting in Charleston, SC, USA. Her talk is titled "Epigenomic Techniques and Machine Learning Approaches to Predict Pregnancy Complications."
 
+*2023-03-23.* Sam is co-author on a paper titled ["Characterization of methylation profiles in spontaneous preterm birth placental villous tissue"](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0279991)
+
 
 *2022-09-19.* New students, Ahmed Berih, Mehroop Randhawa, and Nataie Yuen join the lab.
 
