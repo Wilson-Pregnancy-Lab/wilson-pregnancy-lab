@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-#title: Wilson Pregnancy Lab
+#title: Wilson Pregnancy Lab News Archive
 hero_media: welcome.png
 design:
   columns: "2"
@@ -15,20 +15,15 @@ design:
   css_class: null
   spacing:
    padding: ["40px", "0", "40px", "0"]
-   
-cta:
-  url: "./join/"
-  label: Join the team
-  icon_pack: fas
-  icon: dna
   
 spacing:
    padding: ["40px", "0", "40px", "0"]
    
 type: landing
 ---
+<br>
+
 **Wilson Pregnancy Lab News Archive**
-![](./images/WilsonLab_Logo.png)
 
 *2022-09-19.* New students, Ahmed Berih, Mehroop Randhawa, and Nataie Yuen join the lab.
 
