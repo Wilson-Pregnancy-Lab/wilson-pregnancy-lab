@@ -21,6 +21,9 @@ cta:
 
 **Wilson Pregnancy Lab Updates**
 
+*2023-03-24.* Sam is a speaker at the Society of Birth Defects Research and Prevention Meeting in Charleston, SC, USA. Her talk is titled "Epigenomic Techniques and Machine Learning Approaches to Predict Pregnancy Complications."
+
+
 *2022-09-19.* New students, Ahmed Berih, Mehroop Randhawa, and Nataie Yuen join the lab.
 
 
