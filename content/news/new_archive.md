@@ -5,7 +5,7 @@ headless: true
 weight: 20
 hero_media: /images/WilsonLab_Logo.png
 
-title: 2022-07-01 The Wilson Pregnancy Lab logo is here!
+title: Wilson lab new archive
 subtitle:
 
 content:
@@ -24,8 +24,7 @@ design:
   columns: "1"
 
 ---
-The Wilson lab has officially opened at McMaster Univesrity in the Department of Obstetrics and Gynecology. To kick off the lab, the official Wilson Pregnancy Lab logo is here!
-
+**Wilson Pregnancy Lab News Archive**
 ![](./images/WilsonLab_Logo.png)
 
 
