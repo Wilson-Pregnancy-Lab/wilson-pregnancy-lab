@@ -16,13 +16,13 @@ design:
   spacing:
    padding: ["40px", "40px", "40px", "0"]
    
-cta1:
+cta:
   url: "./join/"
   label: Join the team
   icon_pack: fas
   icon: dna
 
-cta2:
+cta:
   url: "./people/"
   label: Meet the team
   icon_pack: fas
