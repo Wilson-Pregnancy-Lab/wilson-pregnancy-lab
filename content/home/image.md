@@ -28,5 +28,15 @@ design:
     padding: ["20px", "0", "0px", "0"]
 advanced:
   css_class: fullscreen
+  
+design:
+  spacing:
+   padding: ["40px", "40px", "40px", "40px"]
+
+cta:
+  url: "./people/"
+  label: Meet the team
+  icon_pack: fas
+  icon: computer
 ---
 
