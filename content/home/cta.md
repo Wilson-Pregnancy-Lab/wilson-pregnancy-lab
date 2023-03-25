@@ -7,11 +7,11 @@ title: null
 subtitle: null
 design:
   columns: "1"
-  
-spacing:
-   padding: ["40px", "0", "40px", "0"]
+  spacing:
+   padding: ["40px", "40px", "40px", "0"]
 ---
 {{% cta  cta_link="./people/" cta_text="Meet the team" color="black" %}}
+
 ----------------
 
 **Wilson Pregnancy Lab Updates**
