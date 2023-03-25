@@ -16,7 +16,7 @@ weight: 20
  # css_style:"text-align: center;"
   #css_class: fullscreen
   
-link:
+cta:
   url: "./people/"
   label: Meet the team
   icon_pack: fas
