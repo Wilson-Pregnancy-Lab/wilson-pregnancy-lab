@@ -9,7 +9,7 @@ design:
   columns: "1"
   spacing:
    padding: ["40px", "40px", "40px", "40px"]
-   
+
 cta:
   url: "./people/"
   label: Meet the team
