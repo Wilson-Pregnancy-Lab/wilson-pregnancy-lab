@@ -2,14 +2,14 @@
 widget: hero
 widget_id: blank
 headless: true
-weight: 40
+weight: 35
 title: Wilson Pregnancy Lab Updates
 subtitle: null
 design:
   spacing:
    padding: ["40px", "40px", "40px", "40px"]
    advanced:
-  css_style: fullscreen
+  css_style:"text-align: center;"
   css_class: fullscreen
 ---
 
