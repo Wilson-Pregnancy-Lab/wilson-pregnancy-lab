@@ -2,8 +2,8 @@
 widget: hero
 widget_id: blank
 headless: true
-weight: 10
-title: null
+weight: 40
+title: Wilson Pregnancy Lab Updates
 subtitle: null
 design:
   columns: "1"
@@ -16,11 +16,6 @@ cta:
   icon_pack: fas
   icon: computer
 ---
-
-----------------
-
-**Wilson Pregnancy Lab Updates**
-
 *2023-04-13.* Ahmed presents his fourth year thesis work at the Biochemistry Undergraduate Thesis Day.
 
 *2023-03-24.* Sam is a speaker at the Society of Birth Defects Research and Prevention Meeting that will be in Charleston, SC, USA, June 24 - 28th, 2023. Her talk is titled "Epigenomic Techniques and Machine Learning Approaches to Predict Pregnancy Complications."
