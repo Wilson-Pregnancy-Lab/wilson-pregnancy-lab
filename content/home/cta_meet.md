@@ -10,11 +10,12 @@ design:
     image_darken: 0.0
     image_position: right
     text_color_light: false
-  css_style: full screen
-  css_class: fullscreen
   spacing:
-   padding: ["10px", "40px", "50px", "0px"]
-   
+   padding: ["40px", "40px", "0px", "40px"]
+advanced:
+  css_style: fullscreen
+  css_class: fullscreen
+  
 cta:
   url: "./people/"
   label: Meet the team
