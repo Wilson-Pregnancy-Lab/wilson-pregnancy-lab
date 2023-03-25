@@ -19,7 +19,7 @@ weight: 20
 cta:
   url: "./people/"
   label: Meet the team
-  icon_pack: fab
+  icon_pack: fal
   icon: computer
   
 #spacing:
