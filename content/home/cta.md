@@ -10,7 +10,7 @@ design:
   spacing:
    padding: ["40px", "40px", "40px", "0"]
 ---
-{{% cta  cta_link="./people/" cta_text="Meet the team" color="black" %}<i class="fa-light fa-computer"></i>}
+{{% cta  cta_link="./people/" cta_text="Meet the team" color="black" %}}
 ----------------
 
 **Wilson Pregnancy Lab Updates**
