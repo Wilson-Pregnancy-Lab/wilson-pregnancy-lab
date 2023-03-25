@@ -20,7 +20,7 @@ cta:
   url: "./people/"
   label: Meet the team
   icon_pack: fas
-  icon: <i class="fa-light fa-head-side-brain" style="color: #511f26;"></i>
+  icon: fa-head-side-brain style="color: #511f26
   
 #spacing:
  #  padding: ["40px", "0", "40px", "0"]
