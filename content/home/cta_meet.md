@@ -11,9 +11,9 @@ design:
     image_position: right
     text_color_light: false
   spacing:
-   padding: ["40px", "40px", "0px", "40px"]
+   padding: ["40px", "40px", "0px", "0px"]
 advanced:
-  css_style: fullscreen
+  css_style:"text-align: center;"
   css_class: fullscreen
   
 cta:
