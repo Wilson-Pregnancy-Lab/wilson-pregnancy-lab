@@ -42,4 +42,4 @@ The press release for the grant can be found [here.](https://www.preeclampsia.or
 
 -------------------------
 For past Wilson Pregnancy Lab new, visit the news archive
-{{% cta  cta_link="./news/" cta_text="New archive →" color="black" %}}
+{{% cta  cta_link="./news/" cta_text="News archive →" color="black" %}}
