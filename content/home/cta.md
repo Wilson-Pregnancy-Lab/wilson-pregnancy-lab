@@ -8,7 +8,7 @@ subtitle: null
 design:
   columns: "1"
   spacing:
-   padding: ["40px", "40px", "40px", "0"]
+   padding: ["40px", "40px", "40px", "40px"]
 
 cta:
   url: "./people/"
@@ -16,6 +16,7 @@ cta:
   icon_pack: fas
   icon: computer
 ---
+
 *2023-04-13.* Ahmed presents his fourth year thesis work at the Biochemistry Undergraduate Thesis Day.
 
 *2023-03-24.* Sam is a speaker at the Society of Birth Defects Research and Prevention Meeting that will be in Charleston, SC, USA, June 24 - 28th, 2023. Her talk is titled "Epigenomic Techniques and Machine Learning Approaches to Predict Pregnancy Complications."
@@ -35,6 +36,4 @@ The press release for the grant can be found [here.](https://www.preeclampsia.or
 
 *2022-07-01.* The Wilson lab has officially opened at McMaster Univesrity in the Department of Obstetrics and Gynecology. To kick off the lab, the official Wilson Pregnancy Lab logo is here!
 
--------------------------
-For past Wilson Pregnancy Lab news, visit the news archive
-{{% cta  cta_link="./news/" cta_text="News archive →" color="black" %}}
+For past Wilson Pregnancy Lab news, visit the [news archive](https://www.wilsonpregnancylab.com/news/)
