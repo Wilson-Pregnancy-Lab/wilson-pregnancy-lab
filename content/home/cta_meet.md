@@ -19,7 +19,7 @@ weight: 20
 cta:
   url: "./people/"
   label: Meet the team
-  icon_pack: far
+  icon_pack: fas
   icon: <font-awesome-icon :icon="['fas', 'head-side-brain']" />
   
 #spacing:
