@@ -23,7 +23,7 @@ design:
 *2023-03-23.* Sam is co-author on a paper titled ["Characterization of methylation profiles in spontaneous preterm birth placental villous tissue"](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0279991)
 
 
-*2022-09-19.* New students, Ahmed Berih, Mehroop Randhawa, and Nataie Yuen join the lab.
+%*2022-09-19.* New students, Ahmed Berih, Mehroop Randhawa, and Nataie Yuen join the lab.
 
 
 *2022-09-19.* The "Sensitive and reproducible cell-free methylome quantification with synthetic spike-in controls" publication is now available online at [Cell Reports Methods](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(22)00176-X#supplementaryMaterial)
