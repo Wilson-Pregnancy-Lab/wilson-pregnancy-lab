@@ -14,11 +14,6 @@ cta:
   icon_pack: fas
   icon: computer
 ---
-{{% cta  cta_link="./people/" cta_text="Meet the team →" color="black" %}}
-
-
-----------------
-
 **Wilson Pregnancy Lab Updates**
 
 *2023-04-13.* Ahmed presents his fourth year thesis work at the Biochemistry Undergraduate Thesis Day.
