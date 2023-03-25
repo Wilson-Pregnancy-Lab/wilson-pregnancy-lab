@@ -6,6 +6,7 @@ weight: 40
 title: Wilson Pregnancy Lab Updates
 subtitle: null
 design:
+  css_class: fullscreen
   spacing:
    padding: ["40px", "40px", "40px", "40px"]
 ---

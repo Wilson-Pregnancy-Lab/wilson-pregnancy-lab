@@ -14,7 +14,7 @@ design:
   css_style: null
   css_class: fullscreen
   spacing:
-   padding: ["40px", "40px", "40px", "40px"]
+   padding: ["40px", "40px", "40px", "0px"]
    
 cta:
   url: "./people/"
