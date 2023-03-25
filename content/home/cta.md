@@ -6,7 +6,25 @@ weight: 40
 title: null
 subtitle: null
 design:
-  columns: "1"
+  columns: "2"
+  background:
+    image_size: contain
+    image_darken: 0.0
+    image_position: right
+    text_color_light: false
+  css_style: null
+  css_class: null
+  spacing:
+   padding: ["40px", "40px", "40px", "0"]
+   
+cta:
+  url: "./people/"
+  label: Meet the team
+  icon_pack: fas
+  icon: computer
+  
+spacing:
+   padding: ["40px", "0", "40px", "0"]
 ---
 {{% cta  cta_link="./people/" cta_text="Meet the team" <i class="fa-light fa-computer"></i> color="black" %}}
 ----------------
