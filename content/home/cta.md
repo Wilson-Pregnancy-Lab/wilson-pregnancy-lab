@@ -1,16 +1,22 @@
 ---
-widget: blank
+widget: hero
 widget_id: blank
 headless: true
 weight: 40
-title: null
+title: team and news
 subtitle: null
 design:
   columns: "1"
   spacing:
    padding: ["40px", "40px", "40px", "0"]
+
+cta:
+  url: "./people/"
+  label: Meet the team
+  icon_pack: fas
+  icon: computer
 ---
-{{% cta  cta_link="./people/" cta_text="Meet the team" color="black" %}}
+
 ----------------
 
 **Wilson Pregnancy Lab Updates**
