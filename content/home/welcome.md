@@ -24,15 +24,7 @@ cta:
   
 spacing:
    padding: ["40px", "0", "40px", "0"]
-   
-cta:
-  url: "./people/"
-  label: Meet the team
-  icon_pack: fas
-  icon: computer
   
-spacing:
-   padding: ["40px", "0", "40px", "0"]
    
 type: landing
 ---
