@@ -20,7 +20,7 @@ cta:
   url: "./people/"
   label: Meet the team
   icon_pack: fas
-  icon: academic
+  icon: fa-computer
   
 #spacing:
  #  padding: ["40px", "0", "40px", "0"]
