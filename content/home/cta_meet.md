@@ -16,11 +16,11 @@ weight: 20
  # css_style:"text-align: center;"
   #css_class: fullscreen
   
-cta:
+link:
   url: "./people/"
   label: Meet the team
   icon_pack: fas
-  icon: 'head-side-brain'
+  icon: head-side-brain
   
 #spacing:
  #  padding: ["40px", "0", "40px", "0"]
