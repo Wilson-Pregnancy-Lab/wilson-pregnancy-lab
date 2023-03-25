@@ -22,8 +22,8 @@ cta:
   icon_pack: fa
   icon: computer
   
-spacing:
-   padding: ["40px", "0", "40px", "0"]
+#spacing:
+ #  padding: ["40px", "0", "40px", "0"]
    
 ##Put lab photo here when we get one
 ---
