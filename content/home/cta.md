@@ -1,32 +1,22 @@
 ---
-widget: hero
+widget: blank
+widget_id: blank
 headless: true
-weight: 10
-#title: Wilson Pregnancy Lab
-hero_media: welcome.png
+weight: 40
+title: null
+subtitle: null
 design:
-  columns: "2"
-  background:
-    image_size: contain
-    image_darken: 0.0
-    image_position: right
-    text_color_light: false
-  css_style: null
-  css_class: null
-  spacing:
-   padding: ["40px", "0", "40px", "0"]
-   
+  columns: "1"
+  
 cta:
   url: "./people/"
   label: Meet the team
   icon_pack: fas
   icon: computer
-  
-spacing:
-   padding: ["40px", "0", "40px", "0"]
-   
-type: landing
 ---
+{{% cta  cta_link="./people/" cta_text="Meet the team →" color="black" %}}
+----------------
+
 **Wilson Pregnancy Lab Updates**
 
 *2023-04-13.* Ahmed presents his fourth year thesis work at the Biochemistry Undergraduate Thesis Day.
