@@ -8,12 +8,6 @@ subtitle: null
 design:
   spacing:
    padding: ["40px", "40px", "40px", "40px"]
-
-cta:
-  url: "./people/"
-  label: Meet the team
-  icon_pack: fas
-  icon: computer
 ---
 
 -----------------------------------
