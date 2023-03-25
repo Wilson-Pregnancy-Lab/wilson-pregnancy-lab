@@ -33,8 +33,4 @@ type: landing
 
 We are an  'omics research group with an emphasis on genomics, epigenomics, and transcriptomics. Our goal is to develop non-invasive methods to predict pregnancy complications before they occur, and to understand the cause of placental dysfunction. We work in the fields of genomics, computational biology, and reproduction.
 
-cta:
-  url: "./people/"
-  label: Meet the team
-  icon_pack: fas
-  icon: dna
+{{% cta  cta_link="./people/" cta_text="Meet the team →" color="black" %}
