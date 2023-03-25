@@ -13,7 +13,7 @@ design:
   css_style: full screen
   css_class: fullscreen
   spacing:
-   padding: ["0px", "0px", "0px", "0px"]
+   padding: ["100px", "40px", "0px", "0px"]
    
 cta:
   url: "./people/"
