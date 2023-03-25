@@ -20,7 +20,7 @@ cta:
   url: "./people/"
   label: Meet the team
   icon_pack: fas
-  icon: <font-awesome-icon :icon="['fas', 'head-side-brain']" />
+  icon: 'head-side-brain'
   
 #spacing:
  #  padding: ["40px", "0", "40px", "0"]
