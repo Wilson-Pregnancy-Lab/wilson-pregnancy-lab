@@ -15,7 +15,7 @@ organizations:
     url: ""
 education:
   courses:
-    - course: BSc  Biomedical Discovery and Commericialization
+    - course: BSc  Biomedical Discovery and Commercialization
       institution: McMaster University, Hamilton, Ontario,Canada
       year: ""
 email: berih@mcmaster.ca

@@ -21,7 +21,7 @@ See details below and email the Wilson lab at wilsos66[at]mcmaster.ca with a cop
 {{% /callout %}}
 
 {{% callout note %}}
-We get a lot of emails inquiring about our lab. Unforatunately, there is not enough time to respond to everyone. Those that are selected for interview will be contacted.
+We get a lot of emails inquiring about our lab. Unfortunately, there is not enough time to respond to everyone. Those that are selected for interview will be contacted.
 {{% /callout %}}
 
 ## **Graduate Students**
