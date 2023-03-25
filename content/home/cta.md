@@ -9,6 +9,12 @@ design:
   columns: "1"
   spacing:
    padding: ["40px", "40px", "40px", "40px"]
+   
+cta:
+  url: "./people/"
+  label: Meet the team
+  icon_pack: fas
+  icon: computer
 ---
 
 *2023-04-13.* Ahmed presents his fourth year thesis work at the Biochemistry Undergraduate Thesis Day.
@@ -33,9 +39,3 @@ The press release for the grant can be found [here.](https://www.preeclampsia.or
 For past Wilson Pregnancy Lab news, visit the news archive 
 
     {{% cta  cta_link="./news/" cta_text="News archive" color="black" %}}
-    
-cta:
-  url: "./people/"
-  label: Meet the team
-  icon_pack: fas
-  icon: computer
