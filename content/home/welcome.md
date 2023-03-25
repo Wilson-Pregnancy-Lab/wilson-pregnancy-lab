@@ -21,12 +21,6 @@ cta:
   label: Join the team
   icon_pack: fas
   icon: dna
-
-cta:
-  url: "./people/"
-  label: Meet the team
-  icon_pack: fas
-  icon: computer
   
 spacing:
    padding: ["40px", "0", "40px", "0"]
