@@ -1,7 +1,7 @@
 ---
 widget: hero
 headless: true
-weight: 30
+weight: 20
 title: The Wilson Pregnancy Lab
 #hero_media: welcome.png
 design:
@@ -19,7 +19,7 @@ advanced:
 cta:
   url: "./people/"
   label: Meet the team
-  icon_pack: fas
+  icon_pack: fa
   icon: computer
   
 spacing:
