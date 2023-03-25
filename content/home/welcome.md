@@ -14,9 +14,9 @@ design:
   css_style: null
   css_class: null
   spacing:
-   padding: ["40px", "40px", "40px", "0"]
+   padding: ["40px", "40px", "40px", "40px"]
    
-cta1:
+cta:
   url: "./join/"
   label: Join the team
   icon_pack: fas
