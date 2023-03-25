@@ -41,5 +41,5 @@ The press release for the grant can be found [here.](https://www.preeclampsia.or
 *2022-07-01.* The Wilson lab has officially opened at McMaster Univesrity in the Department of Obstetrics and Gynecology. To kick off the lab, the official Wilson Pregnancy Lab logo is here!
 
 -------------------------
-For past Wilson Pregnancy Lab new, visit the news archive
+For past Wilson Pregnancy Lab news, visit the news archive
 {{% cta  cta_link="./news/" cta_text="News archive →" color="black" %}}
