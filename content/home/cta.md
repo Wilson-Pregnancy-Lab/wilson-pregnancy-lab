@@ -14,7 +14,7 @@ cta:
   icon_pack: fas
   icon: computer
 ---
-{{% cta  cta_link="./people/" cta_text="Meet the team →" color="black" %}}
+{{% cta  cta_link="./people/" cta_text="Meet the team" color="black" icon = "computer" %}}
 ----------------
 
 **Wilson Pregnancy Lab Updates**
