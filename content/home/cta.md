@@ -8,7 +8,7 @@ subtitle: null
 design:
   columns: "1"
 ---
-{{% cta  cta_link="./people/" cta_text="Meet the team" color="black" icon_pack="fas" icon="computer" %}}
+{{% cta  cta_link="./people/" cta_text="Meet the team" color="black" <i class="fa-light fa-computer"></i> %}}
 ----------------
 
 **Wilson Pregnancy Lab Updates**
