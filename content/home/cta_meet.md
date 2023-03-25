@@ -19,8 +19,8 @@ weight: 20
 cta:
   url: "./people/"
   label: Meet the team
-  icon_pack: fas
-  icon: 'computer'
+  icon_pack: far
+  icon: head-side-brain
   
 #spacing:
  #  padding: ["40px", "0", "40px", "0"]
