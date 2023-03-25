@@ -19,8 +19,8 @@ weight: 20
 cta:
   url: "./people/"
   label: Meet the team
-  icon_pack: fal
-  icon: computer
+  icon_pack: fa-light
+  icon: fa-computer
   
 #spacing:
  #  padding: ["40px", "0", "40px", "0"]
