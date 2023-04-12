@@ -15,7 +15,7 @@ design:
 
 -----------------------------------
 
-*2023-04-13.* Ahmed and Mehrrop present their fourth year theses at the Biochemistry Undergraduate Research Day and Biology Research Day, respectfully.
+*2023-04-13.* Ahmed and Mehroop present their fourth year theses at the Biochemistry Undergraduate Research Day and Biology Research Day, respectfully.
 
 *2023-03-24.* Sam is a speaker at the Society of Birth Defects Research and Prevention Meeting that will be in Charleston, SC, USA, June 24 - 28th, 2023. Her talk is titled "Epigenomic Techniques and Machine Learning Approaches to Predict Pregnancy Complications."
 
