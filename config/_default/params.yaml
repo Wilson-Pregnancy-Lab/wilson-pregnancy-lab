@@ -44,7 +44,7 @@ header:
 
 footer:
   copyright:
-    notice: '© 2022 Wilson,SL. This work is licensed under {CC BY NC ND 4.0}'
+    notice: '© 2023 Wilson,SL. This work is licensed under {CC BY NC ND 4.0}'
     license:
       enable: true
       allow_derivatives: false
