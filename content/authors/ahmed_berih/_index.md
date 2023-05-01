@@ -1,6 +1,6 @@
 ---
-title: Ahmed Berih
-role: Undergraduate Thesis Student - Biomedical Discovery and Commericialization
+title: Ahmed Berih 
+role: Undergraduate Thesis Student - 2023
 avatar_filename: avatar.jpg
 bio: ""
 interests: []

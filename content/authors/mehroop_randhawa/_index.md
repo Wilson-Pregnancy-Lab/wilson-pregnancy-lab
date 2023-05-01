@@ -1,6 +1,6 @@
 ---
 title: Mehroop Randhawa
-role: Undergraduate Thesis Student - Biology
+role: Undergraduate Thesis Student - 2023
 avatar_filename: avatar.jpg
 bio: ""
 interests: []
