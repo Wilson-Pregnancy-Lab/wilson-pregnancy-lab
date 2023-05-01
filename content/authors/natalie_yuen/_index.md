@@ -1,6 +1,6 @@
 ---
 title: Natalie Yuen
-role: Undergraduate Volunteer - Biochemistry
+role: Undergraduate Coop Student - Biochemistry
 avatar_filename: avatar.png
 bio: ""
 interests: []
