@@ -14,6 +14,7 @@ design:
 ---
 
 -----------------------------------
+*2023-04-14.* Congratulations to Mehroop for winning best thesis presentation in her session at the Biology Undergraduate Research Day!
 
 *2023-04-13.* Ahmed and Mehroop present their fourth year theses at the Biochemistry Undergraduate Research Day and Biology Research Day, respectfully.
 
