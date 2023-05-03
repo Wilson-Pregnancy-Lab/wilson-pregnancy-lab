@@ -38,7 +38,7 @@ To apply to a graduate student position within the Wilson Pregnancy Lab, please 
 
 #### *Funding*
 
-Any accepted student will be awarded the minimum funding package in accordance with their graduate student program. Students that are awarded stipend awards will be topped up to a higher rate of funding.
+Any accepted student will be awarded the minimum funding package in accordance with their graduate student program. 
 
 ## **Undergraduate Students**
 
