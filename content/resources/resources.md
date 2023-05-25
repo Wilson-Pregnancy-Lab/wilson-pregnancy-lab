@@ -34,6 +34,8 @@ header:
 
 [Ontario Women's Health Scholars Award](https://cou.ca/resources/awards/)
 
+[Ontario Graduate Scholarship](https://gs.mcmaster.ca/current-students/scholarships/ontario-graduate-scholarship-and-the-queen-elizabeth-ii-graduate-scholarship-in-science-and-technology/)
+
 ## Postdoctoral Fellows
 
 [Banting Postdoctoral Fellowship](https://banting.fellowships-bourses.gc.ca/en/home-accueil.html)
