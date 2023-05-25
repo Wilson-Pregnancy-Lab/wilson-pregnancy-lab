@@ -1,7 +1,7 @@
 ---
 widget: hero
 headless: true
-weight: 10
+weight: 20
 title: Wilson Pregnancy Lab: What we do
 hero_media: 2023_WilsonLab_schematic.png
 design:
