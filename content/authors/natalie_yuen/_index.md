@@ -24,5 +24,5 @@ user_groups:
   - "Undergraduate Students"
 highlight_name: true
 ---
-Natalie is a fourth year student in the Biochemistry program at McMaster. She is volunteering in the lab, investigating how the DNA methylation patterns of cell free DNA can be used to determine their tissue of origin during pregnancy. In her free time, she enjoys reading, painting and spending time with her dog! 
+Natalie is a fifth-year student in the Biochemistry Co-op program at McMaster. Her project looks at cell-free DNA methylation and tissue-of-origin during pregnancy. She will also be reviewing the current knowledge and literature surrounding cell-free placental DNA. In her free time, she enjoys painting, knitting/crocheting, and spending time with her dog, Yoko!
 
