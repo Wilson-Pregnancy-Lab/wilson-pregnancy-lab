@@ -53,17 +53,17 @@ The Wilson Pregnancy Lab employs a range of advanced methodologies to investigat
 
 *Whole Genome Sequencing*: Examining the complete DNA sequences of the placental genome to identify genetic variations and mutations.
 
-*cfMeDIP-seq*: Employing this method to study DNA methylation patterns, which play a crucial role in gene regulation and epigenetic aging.
+*cfMeDIP-seq*: Employing this method to study DNA methylation patterns, which play a crucial role in gene regulation.
 
 *EM-seq*: Utilizing this technique to investigate epigenetic modifications and chromatin accessibility patterns.
 
 *RNA-seq*: Analyzing the transcriptome of placental cells to understand gene expression profiles and identify differentially expressed genes.
 
-*Microarray Data*: Utilizing microarrays to study gene expression and identify molecular changes in placental samples.
+*Microarray Data*: Utilizing microarrays to study gene expression and DNA methylation to identify molecular changes in placental and blood samples.
 
 *Model Systems*
 
-a. Mouse Models: Using mouse models to investigate placental development and understand the underlying mechanisms.
+a. Mouse Models: Using mouse models to investigate underlying mechanisms of placental development.
 
 b. Organ-on-a-Chip Models: Employing organ-on-a-chip models to mimic placental tissue and study its functions in a controlled environment.
 
