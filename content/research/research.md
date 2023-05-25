@@ -42,7 +42,10 @@ Utilizing molecular profiles to identify novel subtypes of pregnancy complicatio
 *Non-invasive Assessment*
 
 Developing novel methods to non-invasively assess placental and pregnancy health.
-Machine Learning and Predictive Models: Applying machine learning approaches to develop classification and predictive models based on the collected data.
+
+*Machine Learning and Predictive Models*
+
+Applying machine learning approaches to develop classification and predictive models based on the collected data.
 
 **Methodologies Used**
 
