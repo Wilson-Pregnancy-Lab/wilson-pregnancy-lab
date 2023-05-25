@@ -8,7 +8,7 @@ main:
     url: '#home'
     weight: 10
   - name: Our Research
-    url: '#research'
+    url: research
     weight: 20
   - name: News archive
     url: news
