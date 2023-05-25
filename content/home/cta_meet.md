@@ -23,7 +23,7 @@ cta:
   icon: fa-head-side-brain
   
 #spacing:
- #  padding: ["40px", "0", "40px", "0"]
+ #  padding: ["40px", "100px", "40px", "100px"]
    
 ##Put lab photo here when we get one
 ---
