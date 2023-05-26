@@ -15,7 +15,7 @@ organizations:
     url: ""
 education:
   courses:
-    - course: Medical Science
+    - course: PhD Medical Science
       institution: McMaster University, Hamilton, Ontario,Canada
       year: ""
 email: jamshel@mcmaster.ca
