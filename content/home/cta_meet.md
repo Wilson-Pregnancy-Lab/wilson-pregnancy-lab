@@ -9,7 +9,7 @@ design:
   background:
     image_size: contain
     image_darken: 0.0
-    image_position: left
+    image_position: right
     text_color_light: false
   css_style: null
   css_class: null
@@ -21,5 +21,8 @@ cta:
   label: Meet the team
   icon_pack: fas
   icon: dna
+  
+  spacing:
+   padding: ["40px", "0", "40px", "0"]
 ---
 
