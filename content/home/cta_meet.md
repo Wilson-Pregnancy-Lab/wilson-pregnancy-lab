@@ -9,7 +9,7 @@ design:
   background:
     image_size: contain
     image_darken: 0.0
-    image_position: right
+    image_position: left
     text_color_light: false
   css_style: null
   css_class: null
