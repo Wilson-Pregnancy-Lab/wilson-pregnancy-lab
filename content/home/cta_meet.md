@@ -7,7 +7,7 @@ hero_media: WilsonPregnancyLab-Summer2023.png
 design:
   columns: "1"
   background:
-    image: coders.jpg
+    image: WilsonPregnancyLab-Summer2023.png
     image_darken: 0
     image_parallax: false
     image_position: center
