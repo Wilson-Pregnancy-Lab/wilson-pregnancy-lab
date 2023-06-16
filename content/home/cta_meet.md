@@ -8,10 +8,10 @@ hero_media: WilsonPregnancyLab-Summer2023.png
  # background: 
   #  image_size: contain
    # image_darken: 0.0
-    #image_position: center
+    #image_position: left
     #text_color_light: false
   #spacing:
-  # padding: ["0px", "40px", "0px", "0px"]
+  # padding: ["40px", "100px", "40px", "100px"]
 #advanced:
  # css_style:"text-align: center;"
   #css_class: fullscreen
@@ -24,7 +24,5 @@ cta:
   
 #spacing:
  #  padding: ["40px", "100px", "40px", "100px"]
-   
-##Put lab photo here when we get one
 ---
 
