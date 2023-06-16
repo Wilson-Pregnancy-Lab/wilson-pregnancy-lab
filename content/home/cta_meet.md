@@ -3,9 +3,9 @@ widget: hero
 headless: true
 weight: 20
 #title: The Wilson Pregnancy Lab
-#hero_media: welcome.png
+hero_media: WilsonPregnancyLab-Summer2023.png
 #design:
- # background:
+ # background: 
   #  image_size: contain
    # image_darken: 0.0
     #image_position: right
