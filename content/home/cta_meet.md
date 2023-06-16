@@ -10,9 +10,7 @@ design:
     image: WilsonPregnancyLab-Summer2023.png
     image_darken: 0
     image_parallax: false
-    image_position: center
-    image_size: cover
-    text_color_light: true
+    image_position: right
   spacing:
     padding: ["20px", "0", "0px", "0"]
 advanced:
