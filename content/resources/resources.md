@@ -127,6 +127,12 @@ header:
 
 [HELIX: Exposome-omics-Wide Association Study](https://helixomics.isglobal.org/)
 
+[Blueprint epigenome](http://dcc.blueprint-epigenome.eu/#/home)
+
+[CuratedAtlasQueryR](https://stemangiola.github.io/CuratedAtlasQueryR/)
+
+
+
 ## Faculty Job Search
 [How to do a chalk talk](https://pubmed.ncbi.nlm.nih.gov/31194669/)
 
