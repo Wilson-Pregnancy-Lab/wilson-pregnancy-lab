@@ -8,7 +8,7 @@ hero_media: WilsonPregnancyLab-Summer2023.png
  # background: 
   #  image_size: contain
    # image_darken: 0.0
-    #image_position: right
+    #image_position: center
     #text_color_light: false
   #spacing:
   # padding: ["0px", "40px", "0px", "0px"]
