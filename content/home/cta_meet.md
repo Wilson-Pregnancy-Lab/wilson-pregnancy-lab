@@ -21,7 +21,7 @@ cta:
   url: "./people/"
   label: Meet the team
   icon_pack: fas
-  icon: head-side-brain
+  icon: brain
   
   spacing:
    padding: ["40px", "0", "40px", "0"]
