@@ -5,7 +5,7 @@ weight: 20
 title: The Wilson Pregnancy Lab: Summer 2023
 hero_media: WilsonPregnancyLab-Summer2023.png
 design:
-  columns: "1"
+  columns: "2"
   background:
     image_size: contain
     image_darken: 0.0
@@ -21,8 +21,5 @@ cta:
   label: Meet the team
   icon_pack: fas
   icon: dna
-  
-#spacing:
- #  padding: ["40px", "100px", "40px", "100px"]
 ---
 
