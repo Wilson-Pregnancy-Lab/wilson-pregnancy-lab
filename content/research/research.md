@@ -61,11 +61,17 @@ The Wilson Pregnancy Lab employs a range of advanced methodologies to investigat
 
 *Microarray Data*: Utilizing microarrays to study gene expression and DNA methylation to identify molecular changes in placental and blood samples.
 
+*Coding Languages*
+Students are allowed the opprotunity to explore different coding languages to tackle their experimental questions.
+However, the Wilson Pregnancy Lab primarily uses R, bash, and python.
+
 *Model Systems*
 
-a. Mouse Models: Using mouse models to investigate underlying mechanisms of placental development.
+a.Human samples: Using real biological human samples to investigate placental development and the molecular underpinnings of placental dysfunction.
 
-b. Organ-on-a-Chip Models: Employing organ-on-a-chip models to mimic placental tissue and study its functions in a controlled environment.
+b. Mouse Models: Using mouse models to investigate underlying mechanisms of placental development.
 
-c. Cell Culture: Conducting experiments using placental cell cultures to investigate cellular processes and responses.
+c. Organ-on-a-Chip Models: Employing organ-on-a-chip models to mimic placental tissue and study its functions in a controlled environment.
+
+d. Cell Culture: Conducting experiments using placental cell cultures to investigate cellular processes and responses.
 
