@@ -13,6 +13,9 @@ header:
   caption: ""
   image: ""
 ---
+{{% callout note %}}
+All graduate student positions are full for the 2023-2024 and 2024-2025 academic years.
+{{% /callout %}}
 
 {{% callout note %}}
 We are currently seeking talented MSc, PhD, and undergraduate students interested in computational biology, placental dysfunction, placental aging, and pregnancy complications.
