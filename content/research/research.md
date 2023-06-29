@@ -64,6 +64,7 @@ The Wilson Pregnancy Lab employs a range of advanced methodologies to investigat
 *Coding Languages*
 Students are allowed the opprotunity to explore different coding languages to tackle their experimental questions.
 However, the Wilson Pregnancy Lab primarily uses R, bash, and python.
+Resources and tutorials on R, bash and python can be found in the resources section of this website.
 
 *Model Systems*
 
