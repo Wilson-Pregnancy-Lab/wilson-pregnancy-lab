@@ -19,7 +19,7 @@ All graduate student positions are full for the 2023-2024 and 2024-2025 academic
 
 {{% callout note %}}
 We are currently seeking talented MSc, PhD, and undergraduate students interested in computational biology, placental dysfunction, placental aging, and pregnancy complications.
-**All current projects are computational, no wet-lab.**
+**All current projects are majority computational, some wet-lab may be required.**
 See details below and email the Wilson lab at wilsos66[at]mcmaster.ca with a copy of your CV (PDF format), a cover letter explaining your research interests, contact information for 3 references, and transcripts with the subject line "[MSc or PhD] Application: [Your Name]". For example, MSc Application: Jane Doe.
 {{% /callout %}}
 
