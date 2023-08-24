@@ -14,6 +14,8 @@ design:
 ---
 
 -----------------------------------
+*2023-08-24.* Keaton will be presenting at the September Canadian Placental Seminar Series. His talk will focus on his recent work assessing the effects of maternal cigarette smoking on the placenta.
+
 *2023-05-16.* Sam will be presenting at the IFPA 2023 meeting, September 5th - 8th in Rotorua, New Zealand, as part of the Integrated approaches to detecting pregnancy pathologies workship. Her talk is titled "Second trimester cell-free placental DNA methylation profiles in preterm birth subtypes."
 
 *2023-05-01.* Welcome to the new Wilson Pregnancy Lab members! Keaton and Simon will be joining the lab as coop students, and Natalie will be continuing in the lab as a coop student. Laiba will be joining the lab for the summer to gain computational skills for her indpendent learning course. Check out the team page to learn more about their projects.
