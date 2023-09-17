@@ -14,8 +14,8 @@ organizations:
   - name: McMaster University
     url: ""
 education:
-  courses: HBHSc - Biomedical Discovery and Commercialization
-    - course: MSc Medical Science
+  courses: 
+    - course: HBHSc Biomedical Discovery and Commercialization
       institution: McMaster University, Hamilton, Ontario,Canada
       year: ""
 email: rajkua8@mcmaster.ca
