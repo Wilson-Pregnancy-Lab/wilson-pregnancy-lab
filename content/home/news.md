@@ -14,7 +14,7 @@ design:
 ---
 
 -----------------------------------
-*2023-09-18.* Welcome Melanie, Ananya, and Spring to the Lab! Melanie is joining us as our very first graduate student, and Ananya and Spring are starting their 4th year theses. Check out the #team page for details about their research. 
+*2023-09-18.* Welcome Melanie, Ananya, and Spring to the Lab! Melanie is joining us as our very first graduate student, and Ananya and Spring are starting their 4th year theses. Check out the [team](https://www.wilsonpregnancylab.com/people/) page for details about their research. 
 
 *2023-08-24.* Keaton will be presenting at the September Canadian Placental Seminar Series. His talk will focus on his recent work assessing the effects of maternal cigarette smoking on the placenta.
 
