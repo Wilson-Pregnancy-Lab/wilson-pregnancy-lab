@@ -14,7 +14,7 @@ design:
 ---
 
 -----------------------------------
-*2023-09-22.* The lab has reeived funding for the J.P Bickell Foundation to investigate changes in immune cell composition in preeclampsia!
+*2023-09-22.* The lab has reeived funding from the J.P Bickell Foundation to investigate changes in immune cell composition in preeclampsia!
 
 *2023-09-18.* Welcome Melanie, Ananya, and Spring to the Lab! Melanie is joining us as our very first graduate student, and Ananya and Spring are starting their 4th year theses. Check out the [team](https://www.wilsonpregnancylab.com/people/) page for details about their research. 
 
