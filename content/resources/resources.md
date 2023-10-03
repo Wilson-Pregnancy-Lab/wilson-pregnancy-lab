@@ -69,6 +69,8 @@ header:
 ## Workshops
 [Canadian Bioinformatics Workshops](https://bioinformatics.ca/workshops/)
 
+[GROWW Program](https://www.growwprogram.com/)
+
 ## Shell scripting
 
 [Software Carpentry Lessons: Beginning shell scripting, python, and R](https://software-carpentry.org/lessons/)

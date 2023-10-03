@@ -14,7 +14,11 @@ design:
 ---
 
 -----------------------------------
-*2023-09-22.* The lab has reeived funding from the J.P Bickell Foundation to investigate changes in immune cell composition in preeclampsia!
+*2023-10-03.* Sam will be giving a talk title "Non-invasive epigenomic methods and characterization of placental dysfunction" at the upcoming [Canadian Epigenetics, Environment, and Health Research Consortium Network Meeting](https://event.fourwaves.com/ceehrc2023/pages) in Banff, Canada.
+
+*2023-10-03.* The lab has received a SEED grant from the Canadian Fertility and Andrology Society to investigate the impact of preimplantation genetic testing on subsequent placental development.
+
+*2023-09-22.* The lab has received funding from the J.P Bickell Foundation to investigate changes in immune cell composition in preeclampsia!
 
 *2023-09-18.* Welcome Melanie, Ananya, and Spring to the Lab! Melanie is joining us as our very first graduate student, and Ananya and Spring are starting their 4th year theses. Check out the [team](https://www.wilsonpregnancylab.com/people/) page for details about their research. 
 
