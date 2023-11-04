@@ -23,5 +23,6 @@ cta:
   label: Meet the team
   icon_pack: fas
   icon: brain
+  align: center
 ---
 
