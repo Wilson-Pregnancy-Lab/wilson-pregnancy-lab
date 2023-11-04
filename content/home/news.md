@@ -14,7 +14,7 @@ design:
 ---
 
 -----------------------------------
-*2023-10-03.* Sam will be giving a talk title "Non-invasive epigenomic methods and characterization of placental dysfunction" at the upcoming [Canadian Epigenetics, Environment, and Health Research Consortium Network Meeting](https://event.fourwaves.com/ceehrc2023/pages) in Banff, Canada.
+*2023-11-16.* Sam will be giving a talk title "Non-invasive epigenomic methods and characterization of placental dysfunction" at the upcoming [Canadian Epigenetics, Environment, and Health Research Consortium Network Meeting](https://event.fourwaves.com/ceehrc2023/pages) in Banff, Canada.
 
 *2023-10-03.* The lab has received a SEED grant from the Canadian Fertility and Andrology Society to investigate the impact of preimplantation genetic testing on subsequent placental development.
 
