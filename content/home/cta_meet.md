@@ -19,7 +19,7 @@ advanced:
   css_class: fullscreen
 
 cta:
-  align-content: center 
+  text-align: center 
   url: "./people/"
   label: Meet the team
   icon_pack: fas
