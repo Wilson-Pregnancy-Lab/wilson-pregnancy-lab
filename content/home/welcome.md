@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: Welcome to the Wilson Pregnancy Lab!
-hero_media: welcome.png
+hero_media: WilsonLab_Logo.png
 design:
   columns: "2"
   background:
