@@ -14,7 +14,7 @@ header:
   image: ""
 ---
 {{% callout note %}}
-All graduate student positions are full for the 2023-2024 and 2024-2025 academic years.
+All graduate student and volunteer positions are full for the 2023-2024 and 2024-2025 academic years. 
 {{% /callout %}}
 
 {{% callout note %}}
