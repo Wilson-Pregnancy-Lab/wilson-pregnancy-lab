@@ -19,12 +19,11 @@ advanced:
   css_class: fullscreen
 
 cta:
-  text-align: center 
   url: "./people/"
   label: Meet the team
   icon_pack: fas
   icon: brain
-  weight: 20 
+  weight: 40 
   widget: slider  
 ---
 
