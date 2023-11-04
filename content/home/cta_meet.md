@@ -18,11 +18,15 @@ design:
 advanced:
   css_class: fullscreen
 
-cta:
-  url: "./people/"
-  label: Meet the team
-  icon_pack: fas
-  icon: brain
-  align: center
+ title: ''
+  align: center 
+  content: Meet the team.
+  cta_icon: brain
+  cta_icon_pack: fas
+  cta_label: Meet the team
+  cta_url: "./people/"
+weight: 20 
+widget: slider  
+
 ---
 
