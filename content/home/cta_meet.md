@@ -3,7 +3,6 @@ widget: hero
 headless: true
 weight: 20
 #title: The Wilson Pregnancy Lab: Summer 2023
-hero_media: 2023_lab_photo.jpg
 
 design:
   columns: "1"
