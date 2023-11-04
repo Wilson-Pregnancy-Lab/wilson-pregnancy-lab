@@ -7,7 +7,7 @@ hero_media: welcome.png
 design:
   columns: "2"
   background:
-    image_size: contain
+    image_size: actual
     image_darken: 0.0
     image_position: right
     text_color_light: false
@@ -17,6 +17,7 @@ design:
    padding: ["40px", "40px", "40px", "40px"]
    
 cta:
+  align: "center"
   url: "./join/"
   label: Join the team
   icon_pack: fas
