@@ -3,19 +3,21 @@ widget: hero
 headless: true
 weight: 20
 #title: The Wilson Pregnancy Lab: Summer 2023
-hero_media: 2023_lab_photo.JPG
+hero_media: 2023_lab_photo.jpg
 
 design:
   columns: "1"
   background:
-    image_size: contain
-    image_darken: 0.0
-    image_position: left
-    text_color_light: false
-  css_style: null
-  css_class: null
+    image: 2023_lab_photo.jpg
+    image_darken: 0
+    image_parallax: false
+    image_position: center
+    image_size: cover
+    text_color_light: true
   spacing:
-   padding: ["40px", "40px", "40px", "40px"]
+    padding: ["20px", "0", "0px", "0"]
+advanced:
+  css_class: fullscreen
 
 cta:
   url: "./people/"
