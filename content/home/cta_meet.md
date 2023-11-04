@@ -6,7 +6,7 @@ weight: 20
 hero_media: 2023_lab_photo.JPG
 
 design:
-  columns: "2"
+  columns: "1"
   background:
     image_size: contain
     image_darken: 0.0
@@ -22,8 +22,5 @@ cta:
   label: Meet the team
   icon_pack: fas
   icon: brain
-  
-  spacing:
-   padding: ["40px", "0", "40px", "0"]
 ---
 
