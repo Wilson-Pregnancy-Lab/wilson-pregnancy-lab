@@ -28,6 +28,7 @@ spacing:
 type: landing
 ---
 <br>
-
+<br>
+<br>
 We are an  'omics research group with an emphasis on genomics, epigenomics, and transcriptomics. Our goal is to develop non-invasive methods to predict pregnancy complications before they occur, and to understand the cause of placental dysfunction. We work in the fields of genomics, computational biology, and reproduction.
 
