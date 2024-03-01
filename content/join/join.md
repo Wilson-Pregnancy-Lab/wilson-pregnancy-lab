@@ -18,6 +18,10 @@ All graduate student and volunteer positions are full for the 2023-2024 and 2024
 {{% /callout %}}
 
 {{% callout note %}}
+We are primarily a **dry lab** working with computational biology techniques. Very little wet-lab is done in the lab.
+{{% /callout %}}
+
+{{% callout note %}}
 We get a lot of emails inquiring about our lab. Unfortunately, there is not enough time to respond to everyone. Those that are selected for interview will be contacted.
 {{% /callout %}}
 

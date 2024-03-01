@@ -1,6 +1,6 @@
 ---
 title: Spring Wang
-role: Undergraduate Thesis Student - Biopharmacology
+role: Undergraduate Thesis Student - 2023
 avatar_filename: avatar.jpg
 bio: ""
 interests: []
@@ -21,7 +21,7 @@ education:
 email: wangs306@mcmaster.ca
 superuser: true
 user_groups:
-  - "Undergraduate Students"
+  - "Alumni"
 highlight_name: true
 ---
 Spring is a fifth-year student in the Biology & Pharmacology Co-op program at McMaster. Her undergraduate thesis will explore changes in DNA methylation in placental DNA during gestational diabetes. With a novel interest in bioinformatics and women's health, Spring is excited to develop her computational and data analysis skills. Outside of the lab, Spring enjoys playing volleyball, rereading the same three books, and making art for her friends!

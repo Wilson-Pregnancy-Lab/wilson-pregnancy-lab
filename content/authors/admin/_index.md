@@ -8,9 +8,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "mailto:wilsos66@mcmaster.ca"
-  - icon: cv
-    icon_pack: ai
-    link: uploads/CV.pdf
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/SamanthaLWilson

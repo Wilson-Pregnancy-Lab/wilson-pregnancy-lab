@@ -1,6 +1,6 @@
 ---
 title: Simon Hendriks
-role: Undergraduate Coop Student - B.Tech Biotechnology
+role: Undergraduate Coop Student - 2024
 avatar_filename: avatar.jpg
 bio: ""
 interests: []
@@ -21,7 +21,7 @@ education:
 email: hendriks@mcmaster.ca
 superuser: true
 user_groups:
-  - "Undergraduate Students"
+  - "Alumni"
 highlight_name: true
 ---
 Simon Hendriks is entering his 4th year in the B.Tech. Biotechnology Co-op program at McMaster University. He is passionate about using software to make biological research more accessible. In the Wilson lab, Simon’s co-op explores methylation patterns in cell-free DNA to assess preeclampsia indicators. Outside of the lab, he enjoys mountain biking and hiking in the Hamilton conservation areas.
