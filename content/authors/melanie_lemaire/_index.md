@@ -1,6 +1,6 @@
 ---
 title: Melanie Lemaire
-role: Graduate Student - Medical Science
+role: MSc Candidate - Medical Science
 avatar_filename: avatar.jpg
 bio: ""
 interests: []

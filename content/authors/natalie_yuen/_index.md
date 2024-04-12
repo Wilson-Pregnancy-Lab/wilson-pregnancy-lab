@@ -1,6 +1,6 @@
 ---
 title: Natalie Yuen
-role: Undergraduate Coop Student - Biochemistry
+role: MSc Candidate - Biochemistry and Biomedical Sciences
 avatar_filename: avatar.png
 bio: ""
 interests: []
@@ -21,8 +21,8 @@ education:
 email: yuenn4@mcmaster.ca
 superuser: true
 user_groups:
-  - "Undergraduate Students"
+  - "Graduate Students"
 highlight_name: true
 ---
-Natalie is a fifth-year student in the Biochemistry Co-op program at McMaster. Her project looks at cell-free DNA methylation and tissue-of-origin during pregnancy. She will also be reviewing the current knowledge and literature surrounding cell-free placental DNA. In her free time, she enjoys painting, knitting/crocheting, and spending time with her dog, Yoko!
+Natalie is an incoming MSc Candidate in the Biochemistry and Biomedical Sciences program. Her project looks at cell-free DNA methylation and tissue-of-origin during pregnancy. She will also be reviewing the current knowledge and literature surrounding cell-free placental DNA. In her free time, she enjoys painting, knitting/crocheting, and spending time with her dog, Yoko!
 
