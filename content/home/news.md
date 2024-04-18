@@ -16,6 +16,8 @@ design:
 -----------------------------------
 *2024-04-12.* Melanie and Keaton will be presenting their recent work at the upcoming RT Weaver Research Day on May 15th 2024.
 
+*2024-04-11.* Congratulations to Ananya for successfully defending her 4th year thesis project looking at sex differences in cell-free DNA!
+
 *2024-04-10.* Congratulations to Keaton and Natalie for being accepted the the Biochemistry and Biomedical Sciences Graduate Program. They will be starting their Graduate work in the lab this fall!
 
 *2024-04-01.* Congratulations to Melanie for being awarded a Canadian Institutes of Health Research  Masters Student Award (CGS-M)!
