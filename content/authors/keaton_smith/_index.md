@@ -24,5 +24,4 @@ user_groups:
   - "Graduate Students"
 highlight_name: true
 ---
-Keaton is an incoming MSc Candidate in the Biochemistry and Biomedical Sciences program at McMaster. His co-op and subsequent undergraduate thesis with the Wilson lab will explore the impacts of smoking on the DNA methylation patterns of cell-free placental DNA. With a passion for bioinformatics, Keaton is excited to develop his computational and data analysis skills with the lab. Outside of the lab, Keaton enjoys playing guitar and trying to get better at basketball. 
-
+Keaton is an incoming MSc student in the Biochemistry and Biomedical Sciences program at McMaster. He graduated from the Biology \& Pharmacology Co-op program at McMaster in 2024. Keaton completed his undergraduate thesis in the Wilson lab, using computational methods to explore the impacts of maternal smoking on the DNA methylation patterns of cell-free placental DNA. Keaton’s graduate project will largely focus on creating machine learning models to classify preterm birth subtypes and non-invasively predict the risk of pregnancy complications. With a passion for bioinformatics, he is excited to continue developing his computational and data analysis skills with the lab. When he is not writing code, you can probably find Keaton playing either guitar or basketball.
