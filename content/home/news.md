@@ -14,6 +14,8 @@ design:
 ---
 
 -----------------------------------
+*2024-05-15.* Congratulations to Mel for winning best oral presentation by a graduate student at this year's R.T Weaver Research Day!
+
 *2024-04-12.* Melanie and Keaton will be presenting their recent work at the upcoming RT Weaver Research Day on May 15th 2024.
 
 *2024-04-11.* Congratulations to Ananya for successfully defending her 4th year thesis project looking at sex differences in cell-free DNA!
