@@ -34,18 +34,6 @@ design:
 
 *2024-02-28.* Congratulations to our Undergraduate Students, Keaton Smith and Spring Wang, for defending their honours theses!
 
-*2023-11-23.* The lab has received a [SickKids-CIHR New Investigator Research Grant](https://www.sickkidsfoundation.com/aboutus/grantsandawards/newinvestigatorresearchgrants) to investigate tissue-specific DNA methylation profiles in cell-free DNA in association with preeclampsia.
-
-*2023-11-16.* Sam will be giving a talk title "Non-invasive epigenomic methods and characterization of placental dysfunction" at the upcoming [Canadian Epigenetics, Environment, and Health Research Consortium Network Meeting](https://event.fourwaves.com/ceehrc2023/pages) in Banff, Canada.
-
-*2023-10-16.* The lab's work was featured by McMaster as part of a new "Office Hours" series. Learn about the work in our lab [here](https://brighterworld.mcmaster.ca/articles/better-expectations-mcmaster-researcher-uses-ai-to-predict-pregnancy-complications/)
-
-*2023-10-03.* The lab has received a SEED grant from the Canadian Fertility and Andrology Society to investigate the impact of preimplantation genetic testing on subsequent placental development.
-
-*2023-09-22.* The lab has received funding from the J.P Bickell Foundation to investigate changes in immune cell composition in preeclampsia!
-
-*2023-09-18.* Welcome Melanie, Ananya, and Spring to the Lab! Melanie is joining us as our very first graduate student, and Ananya and Spring are starting their 4th year theses. Check out the [team](https://www.wilsonpregnancylab.com/people/) page for details about their research. 
-
 
 
 
