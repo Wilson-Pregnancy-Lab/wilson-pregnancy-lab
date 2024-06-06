@@ -14,6 +14,8 @@ design:
 ---
 
 -----------------------------------
+*2024-06-03.* The lab has received a [New Frontiers in Research Exploration Grant](https://brighterworld.mcmaster.ca/articles/mcmaster-nfrf-grants-2024/) to develop cellular models of placental dysfunction using placenta-on-a-chip model in collaboration with Dr. Boyang Zhang and Dr. Sandy Raha.
+
 *2024-05-15.* Congratulations to Mel for winning best oral presentation by a graduate student at this year's R.T Weaver Research Day!
 
 *2024-04-12.* Melanie and Keaton will be presenting their recent work at the upcoming RT Weaver Research Day on May 15th 2024.
