@@ -14,6 +14,8 @@ design:
 ---
 
 -----------------------------------
+*2024-07-11.* Melanie and Keaton will be presenting their most recent work at the upcoming International Federation of Placenta Associations Meeting in Montreal, September 2 - 6th, 2024.
+
 *2024-06-03.* The lab has received a [New Frontiers in Research Exploration Grant](https://brighterworld.mcmaster.ca/articles/mcmaster-nfrf-grants-2024/) to develop cellular models of placental dysfunction using placenta-on-a-chip model in collaboration with Dr. Boyang Zhang and Dr. Sandy Raha.
 
 *2024-05-15.* Congratulations to Mel for winning best oral presentation by a graduate student at this year's R.T Weaver Research Day!
