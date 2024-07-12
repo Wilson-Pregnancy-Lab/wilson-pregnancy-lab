@@ -1,10 +1,10 @@
 ---
-title: Sharing biological data why, when, and how
+title: Consistent cord blood DNA methylation signatures of gestational age between South Asian and white European cohorts
 
 # Listing view
 publication_types: ["2"]
-date: 2021-04-01
-publication: "FEBS Letters"
+date: 2024-06-06
+publication: "Clinical Epigenetics"
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
