@@ -55,7 +55,7 @@ The Wilson Pregnancy Lab employs a range of advanced methodologies to investigat
 
 *cfMeDIP-seq*: Employing this method to study DNA methylation patterns, which play a crucial role in gene regulation.
 
-*EM-seq*: Utilizing this technique to investigate epigenetic modifications and chromatin accessibility patterns.
+*Biomodel duet multiomics solution evoC*: Utilizing this technique to investigate DNA methylation, hydroxymethylation and genomic sequence simutaneously.
 
 *RNA-seq*: Analyzing the transcriptome of placental cells to understand gene expression profiles and identify differentially expressed genes.
 
