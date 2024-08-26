@@ -14,8 +14,11 @@ design:
 ---
 
 -----------------------------------
+<<<<<<< HEAD
 *2024-08-22.* Check out Mel's interview on ["The Science Pawcast"](https://bunsenbernerbmd.buzzsprout.com/413041/15625913-season-6-episode-25-heat-and-drugs-cats-vs-dogs-and-the-science-of-epigenetics-with-melanie-lemaire), where she discusses her work in the lab!
 
+=======
+>>>>>>> c0dec502f0ce9ecf06c79be3af47eb4cf575be19
 *2024-08-09.* Mel's manuscript is posted on biorxiv! [Examining Fetal Sex-Specific Placental DNA Methylation Intensities and Variability Post In Vitro Fertilization](https://www.biorxiv.org/content/10.1101/2024.08.08.604307v1)
 
 *2024-07-29.* Welcome to our new Mitacs Intern, Sylvia Fan! She will be completing a 3 month internship in the lab.
