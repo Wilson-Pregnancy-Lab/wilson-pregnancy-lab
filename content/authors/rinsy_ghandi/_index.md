@@ -21,7 +21,7 @@ education:
 email: gandhr26@mcmaster.ca
 superuser: true
 user_groups:
-  - "Undergraduate"
+  - "Undergraduate Students"
 highlight_name: true
 ---
 Rinsy is a third-year student in the Biochemistry program at McMaster. Her third-year research project investigates patterns of cell-free DNA fragmentation in the context of pregnancy. Her project involves analyzing fragment end motifs in cell-free methylated DNA immunoprecipitation sequencing data from healthy pregnancies and those resulting in preterm birth. With a strong interest in women’s health, Rinsy is eager to enhance her computational skills in the lab. In her free time, she enjoys baking desserts, reading books, and watching Formula 1.
