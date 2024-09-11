@@ -1,6 +1,6 @@
 ---
 title: Ananya Rajkumar
-role: Undergraduate Thesis Student - Biomedical Discovery and Commercialization
+role: Undergraduate Thesis Student - 2024
 avatar_filename: avatar.jpg
 bio: ""
 interests: []
