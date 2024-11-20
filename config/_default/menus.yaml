@@ -25,6 +25,9 @@ main:
   - name: Resources
     url: resources
     weight: 70
+  - name: Lab photos
+    url: lab photos
+    weight: 80
   - name: Contact
     url: contact
-    weight: 80
+    weight: 90
