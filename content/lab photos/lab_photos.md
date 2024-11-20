@@ -3,7 +3,7 @@ widget: hero
 widget_id: blank
 headless: true
 weight: 40
-title: Wilson Pregnancy Lab Updates
+title: Lab photos
 subtitle: null
 design:
   spacing:
