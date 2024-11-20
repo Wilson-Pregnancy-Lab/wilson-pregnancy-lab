@@ -1,5 +1,5 @@
 ---
-title: Lab photos
+title: 
 summary:
 date:
 
