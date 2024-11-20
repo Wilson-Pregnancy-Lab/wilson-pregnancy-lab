@@ -1,16 +1,17 @@
 ---
-widget: hero
-widget_id: blank
-headless: true
-weight: 80
 title: Lab photos
-subtitle: null
-design:
-  spacing:
-   padding: ["40px", "40px", "40px", "40px"]
-   advanced:
-  css_style:"text-align: center;"
-  css_class: fullscreen
+summary:
+date:
+
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
+
+# Optional header image (relative to `assets/media/` folder).
+header:
+  caption: ""
+  image: ""
 ---
 *Wilson Pregnancy Lab Fall 2024*
 ![](./2024_lab_photo.jpg)
