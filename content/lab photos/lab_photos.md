@@ -2,7 +2,7 @@
 widget: hero
 widget_id: blank
 headless: true
-weight: 40
+weight: 80
 title: Lab photos
 subtitle: null
 design:
