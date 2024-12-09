@@ -1,6 +1,6 @@
 ---
 title: Ananya Rajkumar
-role: Undergraduate Thesis Student - Biomedical Discovery and Commercialization
+role: Undergraduate Thesis Student - 2024
 avatar_filename: avatar.jpg
 bio: ""
 interests: []
@@ -21,7 +21,7 @@ education:
 email: rajkua8@mcmaster.ca
 superuser: true
 user_groups:
-  - "Undergraduate Students"
+  - "Alumni"
 highlight_name: true
 ---
 Ananya is a Fourth-year student at McMaster University in the program Biomedical Discovery and Commercialization. With a passion for pathology, epigenetics, and the application of computation in healthcare, Ananya is excited to embark on her thesis journey. Her Undergraduate thesis will explore the sex-specific differences in cell-free placental DNA in normal and preeclamptic pregnancies. When she’s not hunched over a laptop, or holding a pipette, Ananya enjoys going on sunset runs, reading everything she can get her hands on, and listening to her innumerable Spotify playlists.
