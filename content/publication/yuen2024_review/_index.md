@@ -3,8 +3,8 @@ title: Cell-free placental DNA: What do we really know?
 
 # Listing view
 publication_types: ["2"]
-date: 2021-04-01
-publication: "FEBS Letters"
+date: 2024-12-09
+publication: "PLOS Genetics"
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
