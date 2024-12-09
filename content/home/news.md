@@ -14,6 +14,8 @@ design:
 ---
 
 -----------------------------------
+*2024-12-09.* Natalie, Mel, and Sam are authors on a new review in PLOS Genetics titled ["Cell-free placental DNA: What do we really know?"](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011484)
+
 *2024-08-09.* Mel's manuscript is posted on biorxiv! [Examining Fetal Sex-Specific Placental DNA Methylation Intensities and Variability Post In Vitro Fertilization](https://www.biorxiv.org/content/10.1101/2024.08.08.604307v1)
 
 *2024-07-29.* Welcome to our new Mitacs Intern, Sylvia Fan! She will be completing a 3 month internship in the lab.
