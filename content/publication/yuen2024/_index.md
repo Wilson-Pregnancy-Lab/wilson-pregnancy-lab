@@ -3,7 +3,7 @@ title: Cell-free placental DNA: What do we really know?
 
 # Listing view
 #view: wilson2018.bib
-publication_types: ["2"]
+publication_types: ["1"]
 date: 2024-12-09
 publication: "PLOS Genetics"
 
