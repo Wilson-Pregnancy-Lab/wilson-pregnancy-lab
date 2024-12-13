@@ -3,28 +3,28 @@ title: Cell-free placental DNA: What do we really know?
 
 # Listing view
 publication_types: ["2"]
-date: 2024-12-09
-publication: "PLOS Genetics"
+date: 2021-04-01
+publication: "FEBS Letters"
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
   image: ''
 ---
-Authors: Natalie Yuen, Melanie Lemaire, Samantha L Wilson
+Authors: Samantha L Wilson, Gregory P Way, Wout Bittremieux, Jean-Paul Armache, Melissa A Haendel, Michael M Hoffman
 
-Publication date: 2024/12/09
+Publication date: 2021/04/01
 
-Journal: PLOS Genetics
+Journal: FEBS Letters
 
-Volume: 20
+Volume: 595
 
-Issue: 12
+Issue: 7
 
-Pages: e1011484
+Pages: 847-863
 
-Publisher: PLOS
+Publisher: FEBS Press
 
-URL Link: [Cell-free placental DNA: What do we really know?](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011484)
+URL Link: [Sharing biological data: why, when, and how](https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1873-3468.14067)
 
-Abstract: Cell-free placental DNA (cfpDNA) is present in maternal circulation during gestation. CfpDNA carries great potential as a research and clinical tool as it provides a means to investigate the placental (epi)genome across gestation, which previously required invasive placenta sampling procedures. CfpDNA has been widely implemented in the clinical setting for noninvasive prenatal testing (NIPT). Despite this, the basic biology of cfpDNA remains poorly understood, limiting the research and clinical utility of cfpDNA. This review will examine the current knowledge of cfpDNA, including origins and molecular characteristics, highlight gaps in knowledge, and discuss future research directions.
+Abstract: Data sharing is an essential element of the scientific method, imperative to ensure transparency and reproducibility. Researchers often reuse shared data for meta-analyses or to accompany new data. Different areas of research collect fundamentally different types of data, such as tabular data, sequence data, and image data. These types of data differ greatly in size and require different approaches for sharing. Here, we outline good practices to make your biological data publicly accessible and usable, generally and for several specific kinds of data.
