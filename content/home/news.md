@@ -14,6 +14,8 @@ design:
 ---
 
 -----------------------------------
+*2025-01-06.* Laiba's paper titled ["Distinct DNA Methylation Signatures in Maternal Blood Reveal Unique Immune Cell Shifts in Preeclampsia and the Pregnancy-Postpartum Transition"](https://www.biorxiv.org/content/10.1101/2024.12.13.628167v1.abstract) is now posted on biorxiv!
+
 *2024-12-09.* Natalie, Mel, and Sam are authors on a new review in PLOS Genetics titled ["Cell-free placental DNA: What do we really know?"](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011484)
 
 *2024-08-22.* Check out Mel's interview on ["The Science Pawcast"](https://bunsenbernerbmd.buzzsprout.com/413041/15625913-season-6-episode-25-heat-and-drugs-cats-vs-dogs-and-the-science-of-epigenetics-with-melanie-lemaire), where she discusses her work in the lab!
