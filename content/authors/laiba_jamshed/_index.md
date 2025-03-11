@@ -1,6 +1,6 @@
 ---
 title: Laiba Jamshed
-role: PhD Candidate, Holloway Lab - Independent study course
+role: MS799 2023
 avatar_filename: avatar.jpg
 bio: ""
 interests: []
@@ -21,7 +21,7 @@ education:
 email: jamshel@mcmaster.ca
 superuser: true
 user_groups:
-  - "Graduate Students"
+  - "Alumni"
 highlight_name: true
 ---
 Laiba is a fourth-year PhD Candidate in the Medical Sciences program at McMaster under the supervision of Dr. Alison Holloway. As part of her independent study course with the Wilson lab, Laiba will be identifying and using DNA methylation signatures of immune cell profiles to distinguish placental pathologies. In her free time, she knits, reads, tries her best to absorb vitamin D, and spends time with her separation-anxiety goblin (her cat).
