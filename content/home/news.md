@@ -14,6 +14,14 @@ design:
 ---
 
 -----------------------------------
+*2025-05-01.* Congratulations to Mel for successfully transferring to the Medical Science PhD program!
+
+*2025-04-10.* Congratulations to our MSc student, Keaton, for being awarded a CGS-M for the 2025-2026 academic year!
+
+*2025-04-09.* Congratulations to our fourth year thesis students, Kriesha and Dina, for defending their thesis work at the Biochemistry Research Day!
+
+*2025-04-02.* Congratulations to our undergraduate student, Kriesha Eyer, for being awarded an NSErC URSA for her research in the lab over the summer!
+
 *2025-01-06.* Laiba's paper titled ["Distinct DNA Methylation Signatures in Maternal Blood Reveal Unique Immune Cell Shifts in Preeclampsia and the Pregnancy-Postpartum Transition"](https://www.biorxiv.org/content/10.1101/2024.12.13.628167v1.abstract) is now posted on biorxiv!
 
 *2024-12-09.* Natalie, Mel, and Sam are authors on a new review in PLOS Genetics titled ["Cell-free placental DNA: What do we really know?"](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011484)
