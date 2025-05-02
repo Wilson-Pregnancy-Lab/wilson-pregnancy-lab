@@ -14,6 +14,8 @@ design:
 ---
 
 -----------------------------------
+* 2025 - 05-02.* Congratulations to Mel for being awarded CGS-D for 2025 - 2028!
+
 *2025-05-01.* Congratulations to Mel for successfully transferring to the Medical Science PhD program!
 
 *2025-04-10.* Congratulations to our MSc student, Keaton, for being awarded a CGS-M for the 2025-2026 academic year!
