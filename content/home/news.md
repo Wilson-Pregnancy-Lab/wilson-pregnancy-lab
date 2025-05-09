@@ -14,7 +14,7 @@ design:
 ---
 
 -----------------------------------
-*2025 - 05-02.* Congratulations to Mel for being awarded CGS-D for 2025 - 2028!
+*2025-05-02.* Congratulations to Mel for being awarded CGS-D for 2025 - 2028!
 
 *2025-05-01.* Congratulations to Mel for successfully transferring to the Medical Science PhD program!
 
