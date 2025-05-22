@@ -1,6 +1,6 @@
 ---
 title: Sylvia Fan
-role: Mitacs Researcher - Undergraduate
+role: Mitacs Undergraduate Researcher - 2024
 avatar_filename: avatar.jpeg
 bio: ""
 interests: []
