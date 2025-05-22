@@ -1,6 +1,6 @@
 ---
 title: Dina Mirkhoshkho
-role: Undergraduate Thesis Student
+role: Undergraduate Thesis Student 2025
 avatar_filename: avatar.png
 bio: ""
 interests: []
@@ -21,7 +21,7 @@ education:
 email: mirkhoss@mcmaster.ca
 superuser: true
 user_groups:
-  - "Undergraduate Students"
+  - "Alumni"
 highlight_name: true
 ---
 Dina Mirkhoshkho is a fourth-year student at McMaster studying Biomedical Discovery and Commercialization. Her thesis project involves analyzing DNA methylation patterns in individuals with PCOS, with the goal of building a classification model to distinguish between PCOS and non-PCOS cases. With a strong passion for women's health, Dina is excited to delve into the complexities of epigenetics and bioinformatics. In their free time, Dina likes playing badminton, cozy games and reviewing movies on letterboxd.  
