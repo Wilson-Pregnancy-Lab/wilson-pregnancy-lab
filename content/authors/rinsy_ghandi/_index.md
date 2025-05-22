@@ -1,6 +1,6 @@
 ---
 title: Rinsy Gandhi
-role: Thesis Student
+role: Undergraduate Thesis Student
 avatar_filename: avatar.jpg
 bio: ""
 interests: []
