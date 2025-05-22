@@ -1,6 +1,6 @@
 ---
 title: Dina Mirkhoshkho
-role: Undergraduate Thesis Student 2025
+role: Undergraduate Thesis Student - 2025
 avatar_filename: avatar.png
 bio: ""
 interests: []
