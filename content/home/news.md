@@ -14,6 +14,8 @@ design:
 ---
 
 -----------------------------------
+*2025-09-10.* Mel's paper titled ["Meta-analysis examining fetal sex-specific placental DNA methylation intensities and estimated cell composition post in vitro fertilization"](https://academic.oup.com/molehr/advance-article/doi/10.1093/molehr/gaaf046/8250119?utm_source=advanceaccess&utm_campaign=molehr&utm_medium=email) was published in Molecular Human Reproduction!
+
 *2025-05-30.* Kriesha will present her recent work titled "Investigating the differential DNA methylation of lipid-related genes in preeclampsia" at the Southern Ontario Reproductive Biology Meeting being hosted at McMaster University.
 
 *2025-05-28.* Congratulations to our MSc student, Natalie, for being awarded a CGS-M for the 2025-2026 academic year!
