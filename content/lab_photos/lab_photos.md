@@ -13,6 +13,9 @@ header:
   caption: ""
   image: ""
 ---
+*Wilson Pregnancy Lab Fall 2025*
+![](./2025_lab_photo.jpg)
+
 *Wilson Pregnancy Lab Fall 2024*
 ![](./2024_lab_photo.jpg)
 
