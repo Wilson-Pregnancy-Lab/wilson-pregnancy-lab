@@ -14,16 +14,18 @@ header:
   image: ""
 ---
 {{% callout note %}}
-All graduate student, thesis positions, and volunteer positions are full for the 2024-2025 and 2025-2026 academic years. 
-{{% /callout %}}
-
-{{% callout note %}}
 We are primarily a **dry lab** working with computational biology techniques. Very little wet-lab is done in the lab.
 {{% /callout %}}
 
 {{% callout note %}}
 We get a lot of emails inquiring about our lab. Unfortunately, there is not enough time to respond to everyone. Those that are selected for interview will be contacted.
 {{% /callout %}}
+
+## **Undergraduate Students**
+
+We are open to undergraduates interested in third year research courses, fourth year thesis, or coop. To apply, please fill out the following form. Only those selected for interview will be contacted.
+
+[Undergraduate Research Application Form - Wilson Pregnancy Lab](https://forms.gle/hUAoCccAJUNbPTfp9)
 
 ## **Graduate Students**
 
@@ -40,15 +42,6 @@ To apply to a graduate student position within the Wilson Pregnancy Lab, please 
 #### *Funding*
 
 Any accepted student will be awarded the minimum funding package in accordance with their graduate student program. 
-
-## **Undergraduate Students**
-
-### *Senior thesis students*
-We are open to senior undergraduate thesis students. To apply, please email a copy of your CV (PDF format), a cover letter explaining your research interests, contact information for 3 references, and transcripts to wilsos66[at]mcmaster.ca with the subject line "[UNDERGRAD THESIS] Application: [Your Name]" (E.g. 4th year thesis: John Doe). Priority will be given to students who have taken BIOCHEM 3BP3 or similar.
-
-### *Summer work experience*
-We are open to undergraduate summer students. To apply, please email a copy of your CV (PDF format), a cover letter explaining your research interests, contact information for 3 references, and transcripts to wilsos66[at]mcmaster.ca with the subject line "[UNDERGRAD SUMMER] Application: [Your Name]". For example, Summer student application: Jane Doe.
-
 
 ## **Postdoctoral Fellows**
 
