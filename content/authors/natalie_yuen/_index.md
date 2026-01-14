@@ -24,5 +24,5 @@ user_groups:
   - "Graduate Students"
 highlight_name: true
 ---
-Natalie is an incoming MSc Candidate in the Biochemistry and Biomedical Sciences program. Her project looks at cell-free DNA methylation and tissue-of-origin during pregnancy. She will also be reviewing the current knowledge and literature surrounding cell-free placental DNA. In her free time, she enjoys painting, knitting/crocheting, and spending time with her dog, Yoko!
+Natalie is a graduate student in the Biochemistry and Biomedical Sciences program. Her project looks at cell-free DNA methylation and tissue-of-origin during pregnancy. She will also be reviewing the current knowledge and literature surrounding cell-free placental DNA. In her free time, she enjoys painting, knitting/crocheting, and spending time with her dog, Yoko!
 

@@ -24,5 +24,5 @@ user_groups:
   - "Graduate Students"
 highlight_name: true
 ---
-Melanie is a first year Master’s student in the Medical Sciences program at McMaster. Her project in the Wilson Lab is focused on the potential effects of preimplantation genetic testing on the expression of genes linked to abnormal placental development and preeclampsia. Melanie is excited to enhance her knowledge of bioinformatics and hopes to develop future projects that use a combined wet-lab and computational research approaches. Outside of the lab Melanie loves to paint, spend time outdoors, and watch the occasional musical.
+Melanie is a graduate student in the Medical Sciences program at McMaster. Her project in the Wilson Lab is focused on the potential effects of preimplantation genetic testing on the expression of genes linked to abnormal placental development and preeclampsia. Melanie is excited to enhance her knowledge of bioinformatics and hopes to develop future projects that use a combined wet-lab and computational research approaches. Outside of the lab Melanie loves to paint, spend time outdoors, and watch the occasional musical.
 
