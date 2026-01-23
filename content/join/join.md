@@ -23,7 +23,7 @@ We get a lot of emails inquiring about our lab. Unfortunately, there is not enou
 
 ## **Undergraduate Students**
 
-We are open to undergraduates interested in third year research courses, fourth year thesis, or coop. To apply, please fill out the following form. Only those selected for interview will be contacted.
+We are open to undergraduates interested in third year research courses, fourth year thesis, or coop. We only take 15 credit fourth year thesis students. To apply, please fill out the following form. Only those selected for interview will be contacted.
 
 [Undergraduate Research Application Form - Wilson Pregnancy Lab](https://forms.gle/hUAoCccAJUNbPTfp9)
 
