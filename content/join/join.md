@@ -14,6 +14,11 @@ header:
   image: ""
 ---
 {{% callout note %}}
+Our lab is full for the 2026-2027 academic year.
+{{% /callout %}}
+
+
+{{% callout note %}}
 We are primarily a **dry lab** working with computational biology techniques. Very little wet-lab is done in the lab.
 {{% /callout %}}
 
