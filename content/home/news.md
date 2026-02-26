@@ -20,32 +20,6 @@ design:
 
 *2026-02-19.* Sam is a co-author on the paper [A pan-cancer compendium of 1294 plasma cell-free DNA methylomes and fragmentomes enabling multicancer detection](https://www.nature.com/articles/s43018-026-01116-3) in Nature Cancer.
 
-*2025-12-07.* Keaton will present his research titled "Sex-Specific effects of maternal smoking during pregnancy on cell-free placental DNA methylation" at the Society of Toxocology of Canada Annual Symposium.
-
-*2025-09-10.* Mel's paper titled ["Meta-analysis examining fetal sex-specific placental DNA methylation intensities and estimated cell composition post in vitro fertilization"](https://academic.oup.com/molehr/advance-article/doi/10.1093/molehr/gaaf046/8250119?utm_source=advanceaccess&utm_campaign=molehr&utm_medium=email) was published in Molecular Human Reproduction.
-
-*2025-05-30.* Kriesha will present her recent work titled "Investigating the differential DNA methylation of lipid-related genes in preeclampsia" at the Southern Ontario Reproductive Biology Meeting being hosted at McMaster University.
-
-*2025-05-28.* Congratulations to our MSc student, Natalie, for being awarded a CGS-M for the 2025-2026 academic year!
-
-*2025-05-07.* Mel will present her recent work titled "Investigating the association of fetal sex on hypertensive pregnancy outcomes across varying conception types: a retrospective cohort study" at RT Weaver Research Day.
-
-*2025-05-02.* Congratulations to Mel for being awarded CGS-D for 2025 - 2028!
-
-*2025-05-01.* Congratulations to Mel for successfully transferring to the Medical Science PhD program!
-
-*2025-05-01.* Welcome back to Kriesha for joining our lab as a Co-op student!
-
-*2025-04-10.* Congratulations to our MSc student, Keaton, for being awarded a CGS-M for the 2025-2026 academic year!
-
-*2025-04-09.* Congratulations to our fourth year thesis students, Kriesha and Dina, for defending their thesis work at the Biochemistry Research Day!
-
-*2025-04-02.* Congratulations to our undergraduate student, Kriesha Eyer, for being awarded an NSErC URSA for her research in the lab over the summer!
-
-*2025-01-06.* Laiba's paper titled ["Distinct DNA Methylation Signatures in Maternal Blood Reveal Unique Immune Cell Shifts in Preeclampsia and the Pregnancy-Postpartum Transition"](https://www.biorxiv.org/content/10.1101/2024.12.13.628167v1.abstract) is now posted on biorxiv.
-
-
-
 
 
 
