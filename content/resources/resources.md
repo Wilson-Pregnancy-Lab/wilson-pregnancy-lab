@@ -97,6 +97,8 @@ header:
 
 ## Statistics
 
+[Twenty Statistical Errors Even YOU Can Find in Biomedical Research Articles](https://www.cmj.hr/2004/45/4/15311405.pdf)
+
 [Introduction to Statistical Learning](https://www.statlearning.com/)
 
 [R for Data Science](https://r4ds.had.co.nz/)
