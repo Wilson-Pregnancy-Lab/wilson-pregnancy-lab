@@ -14,6 +14,12 @@ design:
 ---
 
 -----------------------------------
+*2026-04-08.* Congratulations to Rinsy for successfully defending her undergraduate thesis!
+
+*2026-04-07.* Congratulations to both Kriesha and Rinsy for completing their undergraduate degress!
+
+*2026-03-31.* Mel will present her most recent work titled "Impact of biopsy on trophectoderm gene expression: a preliminary investigation into placental disorders after PGT" at the McMaster Medical Science Research Day
+
 *2026-03-20.* Congratulations to Natalie for winning runner-up for best MSc presentation at the BBSRS research day!
 
 *2026-03-20.* Natalie will give a talk at the BBSRS Research day titled "Tissue-specific genetic and epigenetic characterization of maternal plasma cell-free DNA"
