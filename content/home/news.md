@@ -14,6 +14,8 @@ design:
 ---
 
 -----------------------------------
+*2026-04-22.* Congratulations to both our MSc students, Natalie and Keaton, for being awarded the Faculty of Health Sciences Outstanding Achievement Award!
+
 *2026-04-08.* Congratulations to Rinsy for successfully defending her undergraduate thesis!
 
 *2026-04-07.* Congratulations to both Kriesha and Rinsy for completing their undergraduate degress!
