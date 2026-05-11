@@ -14,6 +14,10 @@ design:
 ---
 
 -----------------------------------
+*2026-05-28.* Natalie will be presenting her work titled "Tissue-specific genetic and epigenetic characterization of maternal plasma cell-free DNA" at the Canadian Bioinformatics Hub Conference May 27 - 29 in Toronto.
+
+*2026-05-06.* Congratulations to Natalie and Keaton for transferring to the PhD program!
+
 *2026-04-22.* Congratulations to both our MSc students, Natalie and Keaton, for being awarded the Faculty of Health Sciences Outstanding Achievement Award!
 
 *2026-04-08.* Congratulations to Rinsy for successfully defending her undergraduate thesis!
@@ -26,7 +30,7 @@ design:
 
 *2026-03-20.* Natalie will give a talk at the BBSRS Research day titled "Tissue-specific genetic and epigenetic characterization of maternal plasma cell-free DNA"
 
-*2026-03-08.* Sam will give a talk titled "Messages from the Placenta: Molecular signals of Pregnancy Health" as a keynote speaker at the International Women's and Children's Health Conferece.
+*2026-03-08.* Sam will give a talk titled "Messages from the Placenta: Molecular signals of Pregnancy Health" as a keynote speaker at the International Women's and Children's Health Conference.
 
 *2026-02-26.* Laiba and Keaton's paper titled [Distinct DNA methylation signatures in maternal blood reveal unique immune shifts in preeclampsia and the pregnancy-postpartum transition](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0343041) was published in PLOS ONE.
 
