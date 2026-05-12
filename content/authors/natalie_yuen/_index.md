@@ -1,6 +1,6 @@
 ---
 title: Natalie Yuen
-role: MSc Candidate - Biochemistry and Biomedical Sciences
+role: PhD Student - Biochemistry and Biomedical Sciences
 avatar_filename: avatar.png
 bio: ""
 interests: []
