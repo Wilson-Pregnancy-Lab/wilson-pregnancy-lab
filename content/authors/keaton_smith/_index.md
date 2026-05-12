@@ -15,7 +15,7 @@ organizations:
     url: ""
 education:
   courses:
-    - course: BSc Honours Biology and Pharmacology
+    - course: PhD Biochemistry and Biomedical Sciences
       institution: McMaster University, Hamilton, Ontario,Canada
       year: ""
 email: smithk63@mcmaster.ca

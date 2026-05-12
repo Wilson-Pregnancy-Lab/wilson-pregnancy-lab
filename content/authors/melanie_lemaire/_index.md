@@ -1,6 +1,6 @@
 ---
 title: Melanie Lemaire
-role: PhD Candidate - Medical Science
+role: PhD Student - Medical Science
 avatar_filename: avatar.jpg
 bio: ""
 interests: []
@@ -15,7 +15,7 @@ organizations:
     url: ""
 education:
   courses:
-    - course: MSc Medical Science
+    - course: PhD Medical Science
       institution: McMaster University, Hamilton, Ontario,Canada
       year: ""
 email: lemairem@mcmaster.ca
