@@ -1,6 +1,6 @@
 ---
 title: Natalie Yuen
-role: MSc Candidate - Biochemistry and Biomedical Sciences
+role: PhD Student - Biochemistry and Biomedical Sciences
 avatar_filename: avatar.png
 bio: ""
 interests: []
@@ -15,7 +15,7 @@ organizations:
     url: ""
 education:
   courses:
-    - course: BSc Biochemistry
+    - course: PhD Biochemistry and Biomedical Sciences
       institution: McMaster University, Hamilton, Ontario,Canada
       year: ""
 email: yuenn4@mcmaster.ca

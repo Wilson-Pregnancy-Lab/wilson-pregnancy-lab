@@ -1,6 +1,6 @@
 ---
 title: Keaton Smith
-role: MSc Candidate - Biochemistry and Biomedical Sciences
+role: PhD Student - Biochemistry and Biomedical Sciences
 avatar_filename: avatar.jpg
 bio: ""
 interests: []
@@ -15,7 +15,7 @@ organizations:
     url: ""
 education:
   courses:
-    - course: BSc Honours Biology and Pharmacology
+    - course: PhD Biochemistry and Biomedical Sciences
       institution: McMaster University, Hamilton, Ontario,Canada
       year: ""
 email: smithk63@mcmaster.ca
