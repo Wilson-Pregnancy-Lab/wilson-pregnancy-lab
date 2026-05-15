@@ -14,6 +14,10 @@ design:
 ---
 
 -----------------------------------
+*2026-05-14.* Congratulations to Kriesha for winning Best Oral Presentation by at Undergraduate student at McMaster's RT Weaver OBGYN Department Research Day!
+
+*2026-05-13.* Kriesha will present her work titled "Exploring the Genetics of Lipid Metabolism in Preeclampsia" at McMaster's RT Weaver OBGYN Department Research Day.
+
 *2026-04-22.* Congratulations to both our MSc students, Natalie and Keaton, for being awarded the Faculty of Health Sciences Outstanding Achievement Award!
 
 *2026-04-08.* Congratulations to Rinsy for successfully defending her undergraduate thesis!
