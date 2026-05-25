@@ -14,6 +14,10 @@ design:
 ---
 
 -----------------------------------
+*2026-05-25.* Welcome Will Hunt to the lab! Will will be completing a Mitacs internship focusing on calling copy number variation in cell-free DNA.
+
+*2026-05-21.* Congratulations to Kriesha and Rinsy for completing their undergraduate degrees and convocating!
+
 *2026-05-14.* Congratulations to Kriesha for winning Best Oral Presentation by at Undergraduate student at McMaster's RT Weaver OBGYN Department Research Day!
 
 *2026-05-13.* Kriesha will present her work titled "Exploring the Genetics of Lipid Metabolism in Preeclampsia" at McMaster's RT Weaver OBGYN Department Research Day.
