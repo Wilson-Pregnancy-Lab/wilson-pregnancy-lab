@@ -14,6 +14,10 @@ design:
 ---
 
 -----------------------------------
+*2026-06-08.* Mel's paper titled [Investigating the association of fetal sex and hypertensive pregnancy outcomes across varying conception types: a retrospective cohort study](https://pubmed.ncbi.nlm.nih.gov/42229583/) is published in the Journal of Obstetrics and Human Reproduction.
+
+*2026-06-01.* Congratulations to Keaton for being awarded an Ontario Graduate Scholarship for his PhD work!
+
 *2026-05-25.* Welcome Will Hunt to the lab! Will will be completing a Mitacs internship focusing on calling copy number variation in cell-free DNA.
 
 *2026-05-21.* Congratulations to Kriesha and Rinsy for completing their undergraduate degrees and convocating!
