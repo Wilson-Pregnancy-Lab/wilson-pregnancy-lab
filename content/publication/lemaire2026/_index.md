@@ -17,7 +17,7 @@ Publication date: 2026/6/1
 
 Journal: Journal of Obstetrics and Human Reproduction
 
-Pages: 103227.
+Pages: 103227
 
 Publisher: Elsevier Open Access
 
