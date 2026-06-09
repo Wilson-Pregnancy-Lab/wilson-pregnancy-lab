@@ -1,5 +1,5 @@
 ---
-title: Investigating the association of fetal sex and hypertensive pregnancy outcomes across varying conception types: a retrospective cohort study
+title: "Investigating the association of fetal sex and hypertensive pregnancy outcomes across varying conception types: a retrospective cohort study"
 
 # Listing view
 #view:
