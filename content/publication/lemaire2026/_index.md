@@ -13,7 +13,7 @@ banner:
   image: ''
 ---
 Authors: Melanie Lemaire, Swati Agrawal, Giulia Muraca, Samantha L Wilson
-Publication date: 2025/9/10
+Publication date: 2026/6/1
 
 Journal: Journal of Obstetrics and Human Reproduction
 
