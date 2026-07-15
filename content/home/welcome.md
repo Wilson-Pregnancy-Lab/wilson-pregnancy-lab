@@ -30,7 +30,7 @@ type: landing
 ---
 <br>
 <br>
-We are an  'omics research group with an emphasis on genomics, epigenomics, and transcriptomics. Our goal is to develop non-invasive methods to predict pregnancy complications before they occur, and to understand the cause of placental dysfunction. We work in the fields of genomics, computational biology, and reproduction.
+The Wilson Pregnancy Lab investigates the biology of the placenta across the continuum of pregnancy—from early development and reproductive origins to placental function, disease, and environmental influences. We integrate molecular biology, multi-omics technologies, computational biology, machine learning, and experimental models to understand how genetic, epigenetic, cellular, and environmental factors shape placental health. Our research investigates the origins of placental health, the mechanisms regulating placental development and dysfunction, experimental models of pregnancy complications, non-invasive approaches to assess placental health, and the impact of environmental exposures on pregnancy outcomes. Together, these studies aim to uncover the biological pathways contributing to pregnancy complications and advance approaches for their prediction, prevention, and treatment.
 <br>
 <br>
 <br>
