@@ -13,65 +13,21 @@ header:
   caption: ""
   image: ""
 ---
-![](./2023_WilsonLab_schematic.jpeg)
+![](./2026_lab_theme_overview.png)
 
 **Research Program Overview**
+The Wilson Pregnancy Lab at McMaster University is dedicated to understanding the biology of the placenta to improve pregnancy health. Our research integrates molecular biology, multi-omics, computational biology, and experimental models to investigate how the placenta develops, functions, and responds to reproductive, genetic, and environmental influences. Together, these studies aim to improve the prediction, prevention, and treatment of pregnancy complications through five interconnected research themes.
+*Origins of Placental Health*
+We investigate how fertility, assisted reproduction, genetics, epigenetics, and early embryonic development influence placental formation and establish the foundation for healthy pregnancies.
+*Placental Development & Function*
+We study the molecular and cellular mechanisms that regulate placental development throughout pregnancy, with a focus on gene regulation, epigenomics, transcriptomics, cell biology, and placental adaptation in health and disease.
+*Experimental Models of Placental Function & Disease*
+We use experimental model systems to investigate the mechanisms underlying placental development and dysfunction. Our work combines trophoblast cell culture, human tissues, animal models, and collaborative experimental platforms to better understand placental biology.
+*Precision Pregnancy Health*
+We develop non-invasive approaches to assess placental health throughout pregnancy using cell-free DNA, multi-omics technologies, and computational methods. Our goal is to improve early detection, risk prediction, and biological understanding of pregnancy complications.
+*Environmental Influences on Pregnancy*
+We investigate how environmental exposures, including wildfire smoke and air pollution, influence placental biology across mammalian species to better understand how the environment shapes pregnancy health.
+**Our Approach**
+Our laboratory combines molecular and computational approaches to study placental biology across multiple scales—from genes and cells to whole pregnancies. We integrate genomic, epigenomic, transcriptomic, and cell-free DNA analyses with bioinformatics, machine learning, and experimental model systems to better understand placental development and pregnancy complications.
 
-The Wilson Pregnancy Lab at McMaster University focuses on understanding placental development through the analysis of multi-omics data. The lab consists of both basic science and translational research branches, each addressing different aspects of placental biology and pregnancy complications.
-
-**Basic Science Theme:**
-
-*Placental Aging and Oxidative Stress* 
-
-Investigating epigenetic aging, mitochondrial function, and molecular changes associated with cellular stress in the placenta.
-
-*Placental Development* 
-
-Characterizing molecular characteristics in early placental and fetal development, studying genomic and epigenomic variability in normal placental development, and assessing the impact of environmental exposures (such as smoking, oxygen changes, and trophoblast disruption) on placental development.
-
-**Translational Theme**
-
-*Pregnancy Complications*
-
-Investigating the causes of various pregnancy complications, including idiopathic preterm birth, preeclampsia, intrauterine growth restriction, chorioamnionitis, and placental abruption.
-
-*Molecular Profiling*
-
-Utilizing molecular profiles to identify novel subtypes of pregnancy complications.
-
-*Non-invasive Assessment*
-
-Developing novel methods to non-invasively assess placental and pregnancy health.
-
-*Machine Learning and Predictive Models*
-
-Applying machine learning approaches to develop classification and predictive models based on the collected data.
-
-**Methodologies Used**
-
-The Wilson Pregnancy Lab employs a range of advanced methodologies to investigate placental development and pregnancy complications. These include:
-
-*Whole Genome Sequencing*: Examining the complete DNA sequences of the placental genome to identify genetic variations and mutations.
-
-*cfMeDIP-seq*: Employing this method to study DNA methylation patterns, which play a crucial role in gene regulation.
-
-*Biomodel duet multiomics solution evoC*: Utilizing this technique to investigate DNA methylation, hydroxymethylation and genomic sequence simutaneously.
-
-*RNA-seq*: Analyzing the transcriptome of placental cells to understand gene expression profiles and identify differentially expressed genes.
-
-*Microarray Data*: Utilizing microarrays to study gene expression and DNA methylation to identify molecular changes in placental and blood samples.
-
-*Coding Languages*: Students are allowed the opprotunity to explore different coding languages to tackle their experimental questions.
-However, the Wilson Pregnancy Lab primarily uses R, bash, and python.
-Resources and tutorials on R, bash and python can be found in the resources section of this website.
-
-*Model Systems*
-
-a.Human samples: Using real biological human samples to investigate placental development and the molecular underpinnings of placental dysfunction.
-
-b. Mouse Models: Using mouse models to investigate underlying mechanisms of placental development.
-
-c. Organ-on-a-Chip Models: Employing organ-on-a-chip models to mimic placental tissue and study its functions in a controlled environment.
-
-d. Cell Culture: Conducting experiments using placental cell cultures to investigate cellular processes and responses.
 
