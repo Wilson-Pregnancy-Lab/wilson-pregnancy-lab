@@ -1,6 +1,6 @@
 ---
 title: Shivangi Sundar
-role: PhD Student - Medical Science
+role: MSc Student - Medical Science
 avatar_filename: avatar.jpg
 bio: ""
 interests: []
