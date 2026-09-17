@@ -23,16 +23,11 @@ We are primarily a **dry lab** working with computational biology techniques. Ve
 {{% /callout %}}
 
 {{% callout note %}}
-We get a lot of emails inquiring about our lab. Unfortunately, there is not enough time to respond to everyone. Those that are selected for interview will be contacted. All undergraduate research applications are assessed in January for September start dates. All graduate applications are assessed in March-April for September start dates.
+We get a lot of emails inquiring about our lab. Unfortunately, there is not enough time to respond to everyone. Those that are selected for interview will be contacted.
 {{% /callout %}}
 
 ## **Undergraduate Students**
-
-<<<<<<< Updated upstream
-We are open to undergraduates interested in third year research courses, fourth year thesis, or coop. We only take 15 credit fourth year thesis students. To apply, please fill out the following form. Only those selected for interview will be contacted. Applications will be assessed in January for September start dates.
-=======
 We are open to undergraduates interested in third year research courses, fourth year thesis, or coop. We only take 15 credit fourth year thesis students. To apply, please fill out the following form. Applications will be reviewed end of October/Beginning of November. Only those selected for interview will be contacted. 
->>>>>>> Stashed changes
 
 [Undergraduate Research Application Form - Wilson Pregnancy Lab](https://forms.gle/hUAoCccAJUNbPTfp9)
 
@@ -47,8 +42,6 @@ I am looking for prospective students with a strong background in genetics, with
 Experience in a unix environment, high performance computing, and scripting in R, Python and/or bash are assets. 
 
 To apply to a graduate student position within the Wilson Pregnancy Lab, please email a copy of your CV (PDF format), a cover letter explaining your research interests, contact information for 3 references, and transcripts to wilsos66[at]mcmaster.ca with the subject line "[MSc or PhD] Application: [Your Name]". For example, MSc Application: Jane Doe.
-
-All applications will be assessed by March/April for September starts.
 
 #### *Funding*
 
