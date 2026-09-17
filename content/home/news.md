@@ -14,6 +14,18 @@ design:
 ---
 
 -----------------------------------
+*2026-09-17.* Mel will be presenting her recent work titled "Impact of biopsy on trophectoderm gene expression: a preliminary investigation into placental disorders after PGT" at the Canadian Fertility and Andrology Society Meeting in Calgary, Canada.
+
+*2026-09-08.* Welcome to our newest graduate student, Shivangi Sundar, and to our newest undergraduate students, Rachel Liu, Zainab Saifi, Moumita Saha, Jiya Patel, and Thenuja Vipulananthan.
+
+*2026-09-02.* Natalie will be presenting her recent work titled "Deciephering maternal plasma cell-free DNA for maternal- and placenta-specific epigenetic insights into pregnancy complications" at the International Federation of Placenta Associations in Kamakura, Japan.
+
+*2026-08-20*. Keaton's paper titled [Enrichment of methylated cell-free placental DNA](https://www.biorxiv.org/content/10.64898/2026.08.17.745276v1.abstract) has been posted on bioRxiv!
+
+*2026-08-18.* Kriesha's paper titled [Transcriptional and isoform-level regulation of lipid-candidate genes in preeclamptic placentas](https://www.biorxiv.org/content/10.64898/2026.08.17.745256v1.abstract) has been posted on bioRxiv!
+
+*2026-08-14.* The lab has been success in obtaining an NSERC Discovery grant to study the impact of wildfire smoke on placental function and development.
+
 *2026-06-08.* Mel's paper titled [Investigating the association of fetal sex and hypertensive pregnancy outcomes across varying conception types: a retrospective cohort study](https://pubmed.ncbi.nlm.nih.gov/42229583/) is published in the Journal of Obstetrics and Human Reproduction.
 
 *2026-06-01.* Congratulations to Keaton for being awarded an Ontario Graduate Scholarship for his PhD work!
