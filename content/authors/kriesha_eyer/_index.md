@@ -1,6 +1,6 @@
 ---
 title: Kriesha Eyer
-role: Undergraduate Co-op Student
+role: Undergraduate Thesis and Co-op Student - 2024 - 2026
 avatar_filename: avatar.jpg
 bio: ""
 interests: []
