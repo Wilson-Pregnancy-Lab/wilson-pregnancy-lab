@@ -1,7 +1,7 @@
 ---
 title: Keaton Smith
 role: PhD Student - Biochemistry and Biomedical Sciences
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 bio: ""
 interests: []
 social:
@@ -24,4 +24,4 @@ user_groups:
   - "Graduate Students"
 highlight_name: true
 ---
-Keaton is a graduate student in the Biochemistry and Biomedical Sciences program at McMaster. He graduated from the Biology \& Pharmacology Co-op program at McMaster in 2024. Keaton completed his undergraduate thesis in the Wilson lab, using computational methods to explore the impacts of maternal smoking on the DNA methylation patterns of cell-free placental DNA. Keaton’s graduate project will largely focus on creating machine learning models to classify preterm birth subtypes and non-invasively predict the risk of pregnancy complications. With a passion for bioinformatics, he is excited to continue developing his computational and data analysis skills with the lab. When he is not writing code, you can probably find Keaton playing either guitar or basketball.
+Keaton is a PhD student in the Biochemistry and Biomedical Sciences Program at McMaster. He graduated from the Biology & Pharmacology Co-op program at McMaster in 2024. Keaton completed his undergraduate thesis in the Wilson lab, using computation methods to explore the impacts of maternal smoking in the DNA methylation patterns of cell-free placental DNA. Keaton's graduate projects largely focus on the epigenetic landscape and genome organization of the placenta and how these characteristics can be detected non-invasively to assess placental health. With a passion for bioinformatics, he is excited to continue developing his computational and data analysis skills with the lab.
