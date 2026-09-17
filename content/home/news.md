@@ -24,7 +24,7 @@ design:
 
 *2026-08-18.* Kriesha's paper titled [Transcriptional and isoform-level regulation of lipid-candidate genes in preeclamptic placentas](https://www.biorxiv.org/content/10.64898/2026.08.17.745256v1.abstract) has been posted on bioRxiv!
 
-*2026-08-14.* The lab has been success in obtaining an NSERC Discovery grant to study the impact of wildfire smoke on placental function and development.
+*2026-08-14.* The lab has been successful in obtaining an NSERC Discovery grant to study the impact of wildfire smoke on placental function and development.
 
 *2026-06-08.* Mel's paper titled [Investigating the association of fetal sex and hypertensive pregnancy outcomes across varying conception types: a retrospective cohort study](https://pubmed.ncbi.nlm.nih.gov/42229583/) is published in the Journal of Obstetrics and Human Reproduction.
 
