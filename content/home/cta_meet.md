@@ -2,12 +2,12 @@
 widget: hero
 headless: true
 weight: 20
-#title: The Wilson Pregnancy Lab: Fall 2025
+#title: The Wilson Pregnancy Lab: Fall 2026
 
 design:
   columns: "1"
   background:
-    image: 2025_lab_photo.jpg
+    image: 2026_lab_photo.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
