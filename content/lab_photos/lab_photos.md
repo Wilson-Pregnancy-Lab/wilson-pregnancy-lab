@@ -13,6 +13,12 @@ header:
   caption: ""
   image: ""
 ---
+*Wilson Pregnancy Lab 2026*
+![](./2026_lab_photo.jpg)
+
+*Wilson Pregnancy Lab Summer 2026*
+![](./2026_summer_lab.PNG)
+
 *Wilson Pregnancy Lab Fall 2025*
 ![](./2025_lab_photo.jpg)
 
