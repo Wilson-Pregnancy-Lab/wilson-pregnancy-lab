@@ -14,6 +14,13 @@ design:
 ---
 
 -----------------------------------
+*2026-10-28.* Sam is now an Editorial Board Member for the journal, Placenta.
+
+*2026-10-21.* Keaton's paper titled [Machine learning in placental research: a review and guide for future studies
+](https://www.sciencedirect.com/science/article/pii/S0143400426007162) is now published in Placenta!
+
+*2026-10-20.* Sam is now a Science Advisory Board Member for Otaksa and co-leading their Global Preeclampsia Intellegence Network (GPI-N).
+
 *2026-09-17.* Mel will be presenting her recent work titled "Impact of biopsy on trophectoderm gene expression: a preliminary investigation into placental disorders after PGT" at the Canadian Fertility and Andrology Society Meeting in Calgary, Canada.
 
 *2026-09-08.* Welcome to our newest graduate student, Shivangi Sundar, and to our newest undergraduate students, Rachel Liu, Zainab Saifi, Moumita Saha, Jiya Patel, and Thenuja Vipulananthan.
